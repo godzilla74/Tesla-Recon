@@ -1,0 +1,12 @@
+http://fvcarriers.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: fvcarriers.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Moved Temporarily
+< Location: https://fvcarriers.teslamotors.com/
+< Server: BigIP
+< Connection: close
+< Content-Length: 0
+

@@ -1,0 +1,32 @@
+200 OK
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+X-Webkit-Csp: report-uri //report-csp-violation
+From-Origin: same
+X-Age: 31
+X-Content-Security-Policy: report-uri //report-csp-violation
+Etag: "1567466550"
+Server: nginx
+Set-Cookie: DrupalVisitorMobile=0; path=/
+Retry-Count: 0
+Content-Language: en
+Content-Security-Policy: report-uri //report-csp-violation
+Cache-Control: public, max-age=0, s-maxage=1800
+Last-Modified: Mon, 02 Sep 2019 23:22:30 GMT
+Link: <http://ir.tesla.com/>; rel="shortlink", <http://ir.tesla.com/>; rel="canonical" <https://ir.tesla.com/investor-relations>; rel="alternate"; hreflang="en" </investor-relations>; rel="revision"
+X-Xss-Protection: 1; mode=block
+Expires: Mon, 02 Sep 2019 23:40:57 GMT
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Device: desktop
+X-Ah-Environment: 13live
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 02 Sep 2019 23:40:57 GMT
+X-Ua-Compatible: IE=edge
+X-Edgeconnect-Midmile-Rtt: 48
+X-Edgeconnect-Origin-Mex-Latency: 91
+X-Cache-Hits: 4
+X-Content-Type-Options: nosniff
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-Request-Id: v-88d54408-cdd8-11e9-a04c-f3ff57315130
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15768000 ; preload

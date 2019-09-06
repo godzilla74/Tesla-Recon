@@ -1,0 +1,30 @@
+200 OK
+Vary: Accept-Encoding
+Set-Cookie: DrupalVisitorMobile=0; path=/
+Content-Language: en
+Last-Modified: Mon, 02 Sep 2019 23:09:08 GMT
+X-Content-Type-Options: nosniff
+Link: <http://ir.tesla.com/>; rel="shortlink", <http://ir.tesla.com/>; rel="canonical" <http://ir.teslamotors.com/investor-relations>; rel="alternate"; hreflang="en" </investor-relations>; rel="revision"
+Server: nginx
+X-Edgeconnect-Midmile-Rtt: 38 38
+X-Ah-Environment: 13live
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-Ua-Compatible: IE=edge
+Etag: "1567465748"
+X-Age: 0
+Cache-Control: public, max-age=0, s-maxage=1800
+Date: Mon, 02 Sep 2019 23:40:58 GMT
+Retry-Count: 0
+Accept-Ranges: bytes
+X-Webkit-Csp: report-uri //report-csp-violation
+From-Origin: same
+X-Content-Security-Policy: report-uri //report-csp-violation
+X-Request-Id: v-aae12424-cdd6-11e9-a360-5ba2d61a20b2
+Expires: Mon, 02 Sep 2019 23:40:58 GMT
+Device: desktop
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+X-Xss-Protection: 1; mode=block
+X-Edgeconnect-Origin-Mex-Latency: 532 532
+Content-Security-Policy: report-uri //report-csp-violation
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,12 @@
+http://ipad-docs.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: ipad-docs.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Server: BigIP
+< Connection: close
+< Content-Length: 0
+< Location: https://ipad-docs.teslamotors.com/
+

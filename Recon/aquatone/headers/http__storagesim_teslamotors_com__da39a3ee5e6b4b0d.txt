@@ -1,0 +1,15 @@
+200 OK
+X-Runtime: 0.013761
+Date: Mon, 02 Sep 2019 23:41:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: _session_id=1f40279eadc4c05446ecc5093069802f; path=/; HttpOnly
+Server: nginx/1.8.1 + Phusion Passenger 5.0.27
+Retry-Count: 0
+Status: 200 OK
+Etag: W/"a59d139a58cc74548b291f026c2c0379"
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 29a55bd7-b226-48e0-8dca-f0266019b928
+Cache-Control: max-age=0, private, must-revalidate
+X-Powered-By: Phusion Passenger 5.0.27

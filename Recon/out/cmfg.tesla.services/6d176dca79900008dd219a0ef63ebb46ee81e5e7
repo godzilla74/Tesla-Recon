@@ -1,0 +1,17 @@
+http://cmfg.tesla.services/
+
+> GET / HTTP/1.1
+> Host: cmfg.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Vary: Accept
+< Content-Type: text/plain; charset=utf-8
+< Date: Tue, 03 Sep 2019 16:11:16 GMT
+< Server: Apache/2.4.6 ()
+< X-Powered-By: Express
+< Location: http://comingsoon.markmonitor.com/
+< Content-Length: 56
+< Set-Cookie: NSC_us_nbsl-83+63+21+25-91=ffffffff4374102e45525d5f4f58455e445a4a423660;path=/;httponly
+
+Found. Redirecting to http://comingsoon.markmonitor.com/

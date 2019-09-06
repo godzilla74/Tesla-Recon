@@ -1,0 +1,12 @@
+http://vitals.dev.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: vitals.dev.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 303 See Other
+< Content-Length: 0
+< Server: WebServer/1.0 UPnP/1.0
+< Ext: 
+< Location: http://vitals.dev.teslamotors.com/login_security.html
+

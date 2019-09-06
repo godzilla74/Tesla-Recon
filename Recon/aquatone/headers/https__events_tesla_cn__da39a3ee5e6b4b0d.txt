@@ -1,0 +1,13 @@
+200 OK
+X-Akamai-Transformed: 9 38052 0 pmb=mRUM,3
+Retry-Count: 0
+Set-Cookie: PHPSESSID=r31cu1c5tdlv29mnbmp67f1q15; path=/
+Content-Type: text/html;charset=UTF-8
+Cache-Control: max-age=0, no-cache, no-store
+Server: nginx/1.14.0
+Vary: Accept-Encoding
+Server-Timing: cdn-cache; desc=MISS edge; dur=83 origin; dur=337
+Strict-Transport-Security: max-age=15768000
+Expires: Mon, 02 Sep 2019 23:40:32 GMT
+Pragma: no-cache
+Date: Mon, 02 Sep 2019 23:40:32 GMT

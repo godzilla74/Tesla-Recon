@@ -1,0 +1,11 @@
+shop.eu.teslamotors.com 		Website
+energysupport.tesla.com 		(you can report vulnerabilities to bugbounty.zoho.com) Website
+								Any domains from acquisitions, such as maxwell.com Website
+feedback.tesla.com 				Website
+feedback.teslamotors.com 		Website
+employeefeedback.tesla.com 		Website
+ir.teslamotors.com 				Website
+ir.tesla.com 					Website
+mkto.teslamotors.com 			Website
+Any other third-party 			websites hosted by non-Tesla entities Website
+Any SolarCity property, including *.solarcity.com Website

@@ -1,0 +1,20 @@
+402 Payment Required
+X-Shardid: 78
+Content-Language: en
+Content-Security-Policy: frame-ancestors *; report-uri /csp-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=cee98200-70c9-4f4a-8889-065166614007
+X-Sorting-Hat-Podid: 78
+X-Shopid: 4232821
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Dc: gcp-us-central1,gcp-us-east1,gcp-us-east1
+X-Request-Id: cee98200-70c9-4f4a-8889-065166614007
+Server: cloudflare
+Cf-Ray: 510355da2b51d789-MRS
+Retry-Count: 0
+Date: Mon, 02 Sep 2019 23:41:33 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: __cfduid=dbdd221e64527cc4392dc39e14da545881567467693; expires=Tue, 01-Sep-20 23:41:33 GMT; path=/; domain=.shop.uk.teslamotors.com; HttpOnly _shopify_y=2b7fbf53-fbd1-4038-a918-173408372206; path=/; expires=Thu, 02 Sep 2021 11:19:57 -0000
+X-Sorting-Hat-Shopid: 4232821
+X-Shopify-Stage: production
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=cee98200-70c9-4f4a-8889-065166614007

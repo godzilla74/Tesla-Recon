@@ -1,0 +1,14 @@
+200 OK
+Content-Length: 1270
+Last-Modified: Thu, 11 Jul 2019 21:02:31 GMT
+X-Cache: Hit from cloudfront
+Via: 1.1 4edba922ed0422af37c88dc3dff2ace6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MRS50
+X-Amz-Cf-Id: ztepZdB64rqPZLSyE-hWSuyRPP8hN9BYVXKup_Nfq0sueTZx3MPdVw==
+Content-Type: text/html
+Retry-Count: 0
+Date: Mon, 22 Jul 2019 07:44:25 GMT
+Etag: "3fa8339f111e3bb3a384559f08f92f85"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 194

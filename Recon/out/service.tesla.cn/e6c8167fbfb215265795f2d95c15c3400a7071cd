@@ -1,0 +1,18 @@
+https://service.tesla.cn/
+
+> GET / HTTP/1.1
+> Host: service.tesla.cn
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Vary: Accept-Encoding
+< X-Server: sjc04p1smlap01
+< Content-Type: text/html; charset=utf-8
+< X-Powered-By: PHP/5.3.3
+< Server: Apache/2.2.15 (CentOS)
+< X-Content-Type-Options: nosniff
+< Set-Cookie: locale=zh_CN; expires=Thu, 03-Oct-2019 16:11:39 GMT; path=/
+< Location: http://service.tesla.cn
+< X-Frame-Options: SAMEORIGIN
+< Date: Tue, 03 Sep 2019 16:11:39 GMT
+

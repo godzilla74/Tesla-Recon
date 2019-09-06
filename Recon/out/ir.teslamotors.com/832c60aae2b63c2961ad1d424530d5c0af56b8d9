@@ -1,0 +1,12 @@
+http://ir.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: ir.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Moved Temporarily
+< Location: https://ir.teslamotors.com/
+< Server: BigIP
+< Connection: close
+< Content-Length: 0
+

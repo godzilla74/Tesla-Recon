@@ -1,0 +1,84 @@
+https://trt.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: trt.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Server: nginx/1.14.1
+< Content-Type: text/html; charset=utf-8
+< Set-Cookie: csrf_cookie_name=121a6c0b286fffebce6c9cf61e4d9d34; expires=Tue, 03-Sep-2019 18:11:44 GMT; Max-Age=7200; path=/
+< Set-Cookie: ci_session=zEqtQY4FqB7U2JFGNR1ksY%2FpkyDTGjbRl6ycHn5ezwjP43ntk5OwfJXE4b67rz3AbEsL1L1k2lzsRGZM7EDWP%2BNkPOPyKLyhhfF8AuLp7opvcqJ25q2%2FAKnsgyPhsJacKykkaER9Z7hDz2K5muCmHnAP%2FXOq7voAK1cRz6w4ZK8I5MCJ8ZUC%2B6EAH0dOxPkuvNrTBIN2VLW3DK4LjSwIZH2%2B%2FS0SQ21R5Cd2zCLhBVGm4QIYaBUExB1apegVYgLXJtU7jb3xWpvhGQxfqYP7CAHZRqnX%2FB9uPeEmgQvPBaD5e5vyFNoqFRr6oW4cW7QxofwQ3VQ5UAot4FoTmGMOE1uNyYyQcfcJNb3nScMhJiePybrwR6E8LDz13Trcys6v; expires=Tue, 03-Sep-2019 18:11:44 GMT; Max-Age=7200; path=/; HttpOnly
+< Set-Cookie: BIGipServerINT-ORIGIN-PROD-TRT-APP-HTTP=35660042.20480.0000; path=/
+< Date: Tue, 03 Sep 2019 16:11:44 GMT
+
+<!doctype html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tesla Real Estate</title>
+
+    <!-- Particles Core + Everything else -->
+    <link rel="stylesheet" href="/static/css/particles-base.css">
+    <link rel="stylesheet" href="/static/css/particles-extras.css">
+    <link href="/static/css/jquery-ui.css" rel="stylesheet">
+
+    <!-- Favicons. -->
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta name="msapplication-TileColor" content="#cc0000">
+    <meta name="msapplication-TileImage" content="/assets/img/icons/favicons/mstile-144x144.png?2">
+    <script src="/static/js/jquery.js"></script>
+    <script src="/static/js/jquery-ui.js"></script>
+    <script src="/static/js/underscore-min.js"></script>
+    <script src="/static/js/react.development.js"></script>
+    <script src="/static/js/react-dom.development.js"></script>
+    <script src="/static/js/compiled/all.js"></script>
+</head>
+<body style="background: url(/static/images/Background@2x.png); background-size: 100%; height: 100%; width: 100%; position: fixed;">
+    <div class="tsla-header-transparent--light">
+        <input type="checkbox" id="tsla-header-nav--secondary_show" class="tsla-header-checkbox">
+        <header id="tsla-header-main" class="tsla-header-main">
+            <div class="tsla-header-main--container">
+                <div class="container">
+					<h1 id="tesla-logo" class="tsla-header-main--logo_container">
+						<a href="/" class="tsla-header-main--logo" title="Tesla">Tesla, Inc</a>
+					</h1>
+                </div>
+            </div>
+        </header>
+	</div>
+	<div class="tsla-flex_grid tsla-flex_grid--gutters">
+		<div class="tsla-flex_grid--item tsla-flex_grid--col_1of4"></div>
+		<div class="tsla-flex_grid--item">
+			<div class="login-box">
+				<center><h2>Tesla Real Estate</h2>
+				<div class="btn btn-primary btn-full trt-landing-page" redirectURL="https://trt.tesla.com/adfs/login">Employees</div>
+				<div class="btn btn-primary btn-full trt-landing-page" redirectURL="https://trt.tesla.com/vendorlogin">Vendor</div>
+				</center>
+				<br />
+				<br />
+							</div>
+		</div>
+		<div class="tsla-flex_grid--item tsla-flex_grid--col_1of4"></div>
+	</div>
+    <script src="/static/js/particles/tiles.js"></script>
+    <script src="/static/js/particles/tsla-header.js"></script>
+	<script src="/static/js/particles/tsla-sidescroll.js"></script>
+	<script>
+		$(function(){
+			$('input[name="username"]').focus();
+		});
+		$(document).on('click','.trt-landing-page', function(e){
+			location.href = $(this).attr('redirectURL');
+		})
+	</script>
+			<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-47008618-1', 'teslamotors.com');
+			ga('send', 'pageview');
+		</script>
+	  </body>
+</html>

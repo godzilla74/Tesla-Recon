@@ -1,0 +1,14 @@
+200 OK
+X-Edgeconnect-Origin-Mex-Latency: 136
+Retry-Count: 0
+Host: 7
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Date: Mon, 02 Sep 2019 23:40:22 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Transaction-Id: fb257cdf-6a0c-473d-9899-46326dc7eaf6
+Dc: ca1
+Content-Type: text/html;charset=UTF-8
+X-Edgeconnect-Midmile-Rtt: 34
+Vary: Accept-Encoding
+X-Request-Id: 5770f274-7fc7-4d81-9ec7-4ce5374afcfd

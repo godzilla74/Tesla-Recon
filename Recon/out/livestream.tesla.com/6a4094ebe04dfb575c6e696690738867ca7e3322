@@ -1,0 +1,22 @@
+https://livestream.tesla.com/
+
+> GET / HTTP/1.1
+> Host: livestream.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Vary: User-Agent
+< Date: Tue, 03 Sep 2019 16:11:36 GMT
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Strict-Transport-Security: max-age=15768000 ; preload
+< Last-Modified: Sun, 21 Apr 2019 20:02:09 GMT
+< X-Edgeconnect-Midmile-Rtt: 0
+< X-Edgeconnect-Midmile-Rtt: 1
+< X-Edgeconnect-Midmile-Rtt: 0
+< Cache-Control: max-age=5
+< Content-Type: text/html; charset=utf-8
+< X-Edgeconnect-Origin-Mex-Latency: 774
+< X-Edgeconnect-Origin-Mex-Latency: 1230
+< X-Edgeconnect-Origin-Mex-Latency: 774
+
+<!doctype html><html lang="en"><head><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-KMG5DM",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"/><meta name="theme-color" content="#000000"><meta name="description" content="Tesla"><meta name="author" content="Tesla"><link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon"><title>Tesla Live Stream</title><link href="/static/css/6df4a1cc.css" rel="stylesheet"><link href="/static/css/ef4e9c2b.css" rel="stylesheet"></head><body><div id="root"></div><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMG5DM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script type="text/javascript" src="/static/js/9a5ba41d.js"></script><script type="text/javascript" src="/static/js/f37a1e36.js"></script></body></html>

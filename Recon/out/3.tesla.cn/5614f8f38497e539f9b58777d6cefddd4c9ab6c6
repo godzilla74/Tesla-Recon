@@ -1,0 +1,12 @@
+http://3.tesla.cn/
+
+> GET / HTTP/1.1
+> Host: 3.tesla.cn
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Connection: close
+< Content-Length: 0
+< Location: https://3.tesla.cn/
+< Server: BigIP
+

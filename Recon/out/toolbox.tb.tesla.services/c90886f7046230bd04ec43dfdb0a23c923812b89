@@ -1,0 +1,24 @@
+http://toolbox.tb.tesla.services/
+
+> GET / HTTP/1.1
+> Host: toolbox.tb.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://toolbox.tb.tesla.services/
+< Via: 1.1 028b99aa24684800a2763651fc3fcbbb.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: CDG3
+< Date: Tue, 03 Sep 2019 16:11:38 GMT
+< Content-Type: text/html
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Id: qTtKlI5GkklKZQGdbKzKqg4Hl8UgT8eb_vg8M4NPYeaPdC5pmcMH1Q==
+< Server: CloudFront
+< Content-Length: 183
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

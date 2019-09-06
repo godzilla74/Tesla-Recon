@@ -1,0 +1,14 @@
+200 OK
+X-Amz-Cf-Pop: MRS50
+Retry-Count: 0
+Content-Type: text/html
+Via: 1.1 1c84c7c2fefb5121a0719e0b934b3767.cloudfront.net (CloudFront)
+Date: Mon, 22 Jul 2019 07:44:25 GMT
+Last-Modified: Thu, 11 Jul 2019 21:02:31 GMT
+Etag: "3fa8339f111e3bb3a384559f08f92f85"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Content-Length: 1270
+X-Amz-Cf-Id: n6A6YKu-FoONzBAKMF5aqw6xb0sZj7omzvf-b7V2Fu9eiRMrPM-3pw==
+Age: 196

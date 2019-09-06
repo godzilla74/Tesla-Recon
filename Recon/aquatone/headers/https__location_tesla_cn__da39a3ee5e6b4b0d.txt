@@ -1,0 +1,15 @@
+200 OK
+Access-Control-Allow-Headers: X-Requested-With
+Content-Length: 40
+Content-Type: text/html; charset=utf-8
+Date: Mon, 02 Sep 2019 23:41:03 GMT
+Cache-Control: public, max-age=300
+X-Varnish-Server: pvg01p1gipvr10.teslamotors.com
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Retry-Count: 0
+X-Cache: MISS
+X-Cache-Hits: 0
+Accept-Ranges: bytes
+Etag: W/"28-rW2dUVXoeyz7cQTVYICOhqPMp5k"
+X-Frame-Options: SAMEORIGIN

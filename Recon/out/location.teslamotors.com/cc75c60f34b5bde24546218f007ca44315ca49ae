@@ -1,0 +1,21 @@
+https://location.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: location.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Date: Tue, 03 Sep 2019 16:11:30 GMT
+< X-Frame-Options: SAMEORIGIN
+< X-Cache-Hits: 0
+< Etag: W/"28-rW2dUVXoeyz7cQTVYICOhqPMp5k"
+< Accept-Ranges: bytes
+< Cache-Control: public, max-age=3600
+< X-Content-Type-Options: nosniff
+< Access-Control-Allow-Origin: *
+< X-Varnish-Server: sjc04p1wwwvr22.sjc05.teslamotors.com
+< Access-Control-Allow-Headers: X-Requested-With
+< Content-Type: text/html; charset=utf-8
+
+<script>window.location="docs";</script>

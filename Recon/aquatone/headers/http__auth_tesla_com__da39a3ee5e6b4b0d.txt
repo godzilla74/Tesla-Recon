@@ -1,0 +1,18 @@
+200 OK
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: connect-src 'self'; default-src 'none'; font-src 'self' data: fonts.gstatic.com; frame-src 'self' www.google.com www.recaptcha.net www.tesla.com www.tesla.com; img-src 'self' data:; script-src www.recaptcha.net 'self' 'nonce-4f86a90e5c624e66f802'; style-src 'unsafe-inline' 'self'
+Server: nginx
+Content-Type: text/html; charset=utf-8
+X-Download-Options: noopen
+Retry-Count: 0
+X-Dns-Prefetch-Control: off
+X-Response-Time: 4.554ms
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Etag: W/"1905-sCEa2y3/55ZBeXoGT10i3Rmccqk"
+Date: Mon, 02 Sep 2019 23:39:53 GMT
+Set-Cookie: tesla-auth.sid=s%3A8IM1f8nwic0wR5FZcjBg01_JT2yqvyOP.LVvybEQRCDIEnMzREKDBDpk7tGp6IjNwRWPHflDfN1Y; Path=/; Expires=Thu, 05 Sep 2019 23:39:53 GMT; HttpOnly; Secure hFqG8=0887925118ab2800cef4bc3818e8e7b81fc5d5896734edf637fad8752ec164c4833623d55809c4007429c719e59b0f92; Path=/; Expires=Tue, 03 Sep 2019 23:39:53 GMT eJQNX2=082e5e0824063800791c3d76e455647526c7de03dd4452492f69d3ea1c80c90d2f8299ba0e38e27fb8e06db365153b6a62e8c734e9910de4cf346a2c101fbfd8; Path=/; Expires=Tue, 03 Sep 2019 23:39:53 GMT; HttpOnly eofBNG=082e5e08240d1800a7ff80ed31d110be569c2aa36c18e6107740689760ec9132; Path=/; Expires=Tue, 03 Sep 2019 23:39:53 GMT lTsyj4=082e5e0824021000888d8cb1db24c56da55e2973038dd1e8; Path=/ MMF9rB=082e5e08240520005d5f761b20d1e23010d679bef70f9c78cd493b2111a5e2b3fc36caef9a380b96; Path=/ TS6e0b27e6027=08ce580718ab20009440ebbf9276fb92f3e88a056e74cc796911840fbcbd0a102523f40a2a954a5908188866201130003fa288dd0e56b395ca60cb6be4db58decb85969e814116288404dfac30d876f7ac9c6d8fbc77ad000beac1e9468d0ca0;Path=/

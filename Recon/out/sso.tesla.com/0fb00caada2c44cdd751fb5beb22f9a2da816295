@@ -1,0 +1,14 @@
+https://sso.tesla.com/
+
+> GET / HTTP/1.1
+> Host: sso.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 0
+< Set-Cookie: vIuL8=0887925118ab2800a99625ff637a6734be81ed2168da4c8b0f73a7d44338ad4f6567881458e7023e85d1cd51820dfa0e; Path=/; Expires=Wed, 04 Sep 2019 16:11:36 GMT
+< Set-Cookie: kZFbOV=08d791a1010620004ee1f775f6d1a5ab8577a4edc7a4423d584e58e5e13d2a94a0044ed7eca5ede8; Path=/; Expires=Wed, 04 Sep 2019 16:11:36 GMT; HttpOnly
+< Set-Cookie: y4un6o=08d791a1010d1800d7bbde3ca4b1dc2747d5608d97d14bbe5809334a2d87edd8; Path=/; Expires=Wed, 04 Sep 2019 16:11:36 GMT
+< Set-Cookie: SW6Zbz=08d791a1010210004b343ea78a45738b01d311412d2216ba; Path=/
+< Set-Cookie: T8JfDn=08d791a10105180050fa973f8bd810253a62367acc4199c45517ae6be3d966cf; Path=/
+

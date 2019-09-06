@@ -1,0 +1,10 @@
+200 OK
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains max-age=15768000 ; preload
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Last-Modified: Sun, 21 Apr 2019 20:02:09 GMT
+X-Edgeconnect-Midmile-Rtt: 0
+Cache-Control: max-age=5
+X-Edgeconnect-Origin-Mex-Latency: 1456
+Date: Mon, 02 Sep 2019 23:41:01 GMT

@@ -1,0 +1,4 @@
+*.tesla.com Website
+*.tesla.cn Website
+*.teslamotors.com Website
+*.tesla.services

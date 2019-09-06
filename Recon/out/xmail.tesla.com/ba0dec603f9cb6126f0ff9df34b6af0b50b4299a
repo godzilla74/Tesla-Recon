@@ -1,0 +1,15 @@
+http://xmail.tesla.com/
+
+> GET / HTTP/1.1
+> Host: xmail.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Date: Tue, 03 Sep 2019 16:11:41 GMT
+< Server: UltraDNS Client Redirection Server
+< Last-Modified: Tue, 03 Sep 2019 16:11:41 GMT
+< Accept-Ranges: none
+< Content-Type: text/html
+< Location: https://sso.tesla.com/adfs/ls/?lc=1033&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline
+
+

@@ -1,0 +1,6 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: BIGipServerupload-pool=!/eBQOWd3LDQ+fKrhYXb12dEjrs2ohWMqd8ojxPh3m2JTxWJtsXLjBlkPxogWO/dyaVtwiYTAhbVJ0/0=; path=/
+Date: Mon, 02 Sep 2019 23:42:03 GMT
+Server: Apache/2.2.15 (Oracle) DAV/2
+Retry-Count: 0

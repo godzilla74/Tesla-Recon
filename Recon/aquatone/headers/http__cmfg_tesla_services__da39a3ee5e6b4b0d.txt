@@ -1,0 +1,18 @@
+200 OK
+Age: 2
+Date: Mon, 02 Sep 2019 23:39:58 GMT
+Connection: Keep-Alive
+Last-Modified: Thu, 07 Feb 2019 19:50:08 GMT
+Etag: "64c-58153264dbc05"
+Content-Security-Policy: script-src 'self'
+Cache-Control: no-cache
+Via: N4.FRA2: 100
+Accept-Ranges: bytes
+Cteonnt-Length: 1612
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Server: Apache/2.4.6 ()
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8

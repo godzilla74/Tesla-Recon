@@ -1,0 +1,12 @@
+http://trt.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: trt.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Location: https://trt.teslamotors.com/
+< Server: BigIP
+< Connection: close
+< Content-Length: 0
+

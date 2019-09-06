@@ -1,0 +1,14 @@
+200 
+Set-Cookie: atlassian.xsrf.token=B2QT-Z7RS-S14B-8CI1_0349ba192bc70f25e140d7d03d51d80dbcdf7814_lout; Path=/ JSESSIONID=FC55B71CE654F18A05300BFF844FF92D; Path=/; HttpOnly
+X-Ausername: anonymous
+X-Asen: SEN-3212520
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self'
+Vary: User-Agent
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+X-Accel-Buffering: no
+Content-Type: text/html;charset=UTF-8
+Date: Mon, 02 Sep 2019 23:40:36 GMT
+X-Arequestid: 1000x8177179x1
+Retry-Count: 0

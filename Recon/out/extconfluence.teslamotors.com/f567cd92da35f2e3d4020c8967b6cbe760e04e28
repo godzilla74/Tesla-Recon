@@ -1,0 +1,19 @@
+https://extconfluence.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: extconfluence.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 
+< X-Xss-Protection: 1; mode=block
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Date: Tue, 03 Sep 2019 16:11:29 GMT
+< X-Asen: SEN-3212508
+< X-Confluence-Request-Time: 1567527089334
+< Set-Cookie: JSESSIONID=B49E1EC8DED74924DFE79D79EC398288; Path=/; HttpOnly
+< Content-Security-Policy: frame-ancestors 'self'
+< Location: /login.action?os_destination=%2Findex.action&permissionViolation=true
+< Content-Type: text/html;charset=UTF-8
+< Content-Length: 0
+

@@ -1,0 +1,15 @@
+http://japan.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: japan.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Accept-Ranges: none
+< Content-Type: text/html
+< Location: https://www.tesla.com/jp/
+< Date: Tue, 03 Sep 2019 16:11:28 GMT
+< Server: UltraDNS Client Redirection Server
+< Last-Modified: Tue, 03 Sep 2019 16:11:28 GMT
+
+

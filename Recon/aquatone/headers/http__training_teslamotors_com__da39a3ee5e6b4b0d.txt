@@ -1,0 +1,20 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Server: nginx + Phusion Passenger
+X-Content-Type-Options: nosniff
+X-Powered-By: Phusion Passenger Enterprise
+Etag: W/"3b4ff850007d316a9033cd78d3d8d2b9"
+X-Permitted-Cross-Domain-Policies: none
+Retry-Count: 0
+Content-Length: 35119
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Download-Options: noopen
+X-Request-Id: bd745c76-8f30-4a6f-bc69-9bb457b47667
+X-Xss-Protection: 1; mode=block
+X-Runtime: 0.076108
+Cache-Control: max-age=0, private, must-revalidate
+Date: Mon, 02 Sep 2019 23:41:58 GMT
+Set-Cookie: _csrf_token=3i6Aq%2FUV5SiP0L1ilQncuJ7UgE7YTk%2FEy%2BausaktSP2mdOvOryOMTLjnihOsaO%2FpyP%2FCIrE0ZLeB1eba0R0Hvg%3D%3D; path=/; secure
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN

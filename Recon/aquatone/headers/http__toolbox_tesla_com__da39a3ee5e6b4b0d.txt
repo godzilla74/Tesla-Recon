@@ -1,0 +1,13 @@
+200 OK
+Via: 1.1 287f9fa63f1cfeea87d1fe9470b17962.cloudfront.net (CloudFront)
+Last-Modified: Thu, 11 Jul 2019 21:02:31 GMT
+Etag: "3fa8339f111e3bb3a384559f08f92f85"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: dBuRqSWaLLuJzzX3lIyQnPMlOd1PZT9DXVTLyhBHcvbiURlEO2UllQ==
+Retry-Count: 0
+Content-Type: text/html
+Content-Length: 1270
+Date: Mon, 02 Sep 2019 23:41:57 GMT
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: MAD50-C1

@@ -1,0 +1,16 @@
+200 OK
+X-Dispatcher: 2
+X-Vhost: publish
+Strict-Transport-Security: max-age=15768000
+Cache-Control: public, max-age=3600
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+X-Akamai-Transformed: 9 - 0 pmb=mRUM,3
+Date: Mon, 02 Sep 2019 23:42:11 GMT
+Last-Modified: Mon, 02 Sep 2019 11:25:49 GMT
+Etag: "fb94-591903bdd9ce4"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Server-Timing: cdn-cache; desc=HIT edge; dur=1

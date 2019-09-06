@@ -1,0 +1,10 @@
+http://click.emails.tesla.com/
+
+> GET / HTTP/1.1
+> Host: click.emails.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://click.emails.tesla.com/
+< Content-Length: 0
+

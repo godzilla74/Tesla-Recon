@@ -1,0 +1,14 @@
+200 OK
+Dc: ca1
+X-Transaction-Id: fd87339c-1bee-4ae8-9def-10af576c4eb5
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Host: 7
+Content-Type: text/html;charset=UTF-8
+Retry-Count: 0
+X-Edgeconnect-Origin-Mex-Latency: 144
+Date: Mon, 02 Sep 2019 23:40:20 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+X-Edgeconnect-Midmile-Rtt: 30
+X-Request-Id: b4573283-73eb-4851-9ba9-63512e25763d

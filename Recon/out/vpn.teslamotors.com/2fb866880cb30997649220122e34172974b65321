@@ -1,0 +1,11 @@
+http://vpn.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: vpn.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Connection: close
+< Content-Type: text/html
+
+<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD><BODY><H4>404 Not Found</H4><BR>Document Not Found</BODY></HTML>

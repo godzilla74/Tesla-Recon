@@ -1,0 +1,19 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+X-Varnish-Server: sjc04p1wwwvr11.sjc05.teslamotors.com
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=60
+Retry-Count: 0
+Etag: "1567467204-1"
+Last-Modified: Mon, 02 Sep 2019 23:33:24 GMT
+Date: Mon, 02 Sep 2019 23:40:43 GMT
+Content-Language: en
+Accept-Ranges: bytes
+Expires: Mon, 02 Sep 2019 23:41:43 GMT
+Server-Timing: cdn-cache; desc=HIT edge; dur=55
+Strict-Transport-Security: max-age=15768000
+Vary: Accept-Encoding
+X-Cache-Hits: 5
+X-Akamai-Transformed: 9 - 0 pmb=mRUM,3
+X-Server: web12a

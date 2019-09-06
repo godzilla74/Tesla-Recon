@@ -1,0 +1,17 @@
+200 OK
+Last-Modified: Mon, 02 Sep 2019 11:25:50 GMT
+Server: Apache
+X-Vhost: publish
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: AWSELB=5529AD9518716C3F5C2D99BFF5D1274662A41B20B9F40EF45E89C7AD5AB03D5A62C61535A2090DC05C8C5D2B0F210F4C1E36E02FEA30E57F1993087EF091AB29B22F1C8363;PATH=/;MAX-AGE=900
+Server-Timing: cdn-cache; desc=MISS edge; dur=86 origin; dur=167
+Retry-Count: 0
+Strict-Transport-Security: max-age=15768000
+Cache-Control: public, max-age=3600 no-cache="set-cookie"
+Etag: "e582-591903bf4b18e"
+X-Dispatcher: 2
+X-Frame-Options: SAMEORIGIN
+X-Akamai-Transformed: 9 58754 0 pmb=mRUM,3
+Date: Mon, 02 Sep 2019 23:39:42 GMT

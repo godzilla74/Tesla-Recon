@@ -1,0 +1,17 @@
+200 OK
+Etag: "faa3-5919057e93541"
+X-Akamai-Transformed: 9 64163 0 pmb=mRUM,3
+Accept-Ranges: bytes
+X-Vhost: publish
+Vary: Accept-Encoding
+Date: Mon, 02 Sep 2019 23:40:58 GMT
+Strict-Transport-Security: max-age=15768000
+Last-Modified: Mon, 02 Sep 2019 11:33:39 GMT
+X-Dispatcher: 1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: AWSELB=5529AD9518716C3F5C2D99BFF5D1274662A41B20B97AEE6F0098A759B265A40E633FF65CC3C8813E7C80123EDFDE86B6B64DE2576011577D00975B6E4EAE0396CCB0F9F64A;PATH=/;MAX-AGE=900
+Server-Timing: cdn-cache; desc=MISS edge; dur=70 origin; dur=167
+Retry-Count: 0
+Cache-Control: public, max-age=3600 no-cache="set-cookie"
+Content-Type: text/html; charset=UTF-8
+Server: Apache

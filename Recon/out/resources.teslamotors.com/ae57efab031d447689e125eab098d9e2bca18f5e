@@ -1,0 +1,15 @@
+https://resources.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: resources.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Accept-Ranges: bytes
+< Content-Length: 11
+< Server: AkamaiNetStorage
+< Cache-Control: max-age=3600
+< Expires: Fri, 06 Sep 2019 23:52:38 GMT
+< Date: Fri, 06 Sep 2019 22:52:38 GMT
+
+Not a file

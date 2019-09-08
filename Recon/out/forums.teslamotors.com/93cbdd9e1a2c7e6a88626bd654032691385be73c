@@ -1,0 +1,18 @@
+https://forums.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: forums.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://forums.tesla.com/
+< Date: Fri, 06 Sep 2019 22:52:32 GMT
+< Server-Timing: cdn-cache; desc=REVALIDATE
+< Server-Timing: edge; dur=41
+< Server-Timing: origin; dur=242
+< Strict-Transport-Security: max-age=15768000
+< Server: LB
+< Content-Length: 0
+< Cache-Control: max-age=60
+< Expires: Fri, 06 Sep 2019 22:53:32 GMT
+

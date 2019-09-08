@@ -1,0 +1,22 @@
+https://powerhub.energy.tesla.com/
+
+> GET / HTTP/1.1
+> Host: powerhub.energy.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Date: Fri, 06 Sep 2019 22:52:38 GMT
+< Content-Type: text/plain; charset=utf-8
+< X-Frame-Options: SAMEORIGIN
+< X-Download-Options: noopen
+< Vary: Accept, Accept-Encoding
+< Content-Length: 242
+< X-Content-Type-Options: nosniff
+< Location: https://auth.tesla.com/oauth/v2/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&state=1567810358717%3A0.8844212818269683&scope=openid%20email
+< Strict-Transport-Security: max-age=15724800; includeSubDomains
+< X-Xss-Protection: 1; mode=block
+< Content-Security-Policy: child-src 'self'; connect-src *; default-src 'self'; img-src 'self' data: www.tesla.com www.teslamotors.com www.google-analytics.com; font-src 'self' data: fonts.googleapis.com/css fonts.gstatic.com; object-src 'self'; media-src 'self' www.tesla.com www.teslamotors.com; manifest-src 'self'; script-src 'self' 'nonce-ff5c6e9f-e378-429b-8861-2374541464dc' 'unsafe-inline' www.google-analytics.com; style-src 'self' 'unsafe-inline' blob: cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css fonts.googleapis.com/css
+< X-Content-Security-Policy: child-src 'self'; connect-src *; default-src 'self'; img-src 'self' data: www.tesla.com www.teslamotors.com www.google-analytics.com; font-src 'self' data: fonts.googleapis.com/css fonts.gstatic.com; object-src 'self'; media-src 'self' www.tesla.com www.teslamotors.com; manifest-src 'self'; script-src 'self' 'nonce-ff5c6e9f-e378-429b-8861-2374541464dc' 'unsafe-inline' www.google-analytics.com; style-src 'self' 'unsafe-inline' blob: cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css fonts.googleapis.com/css
+< X-Webkit-Csp: child-src 'self'; connect-src *; default-src 'self'; img-src 'self' data: www.tesla.com www.teslamotors.com www.google-analytics.com; font-src 'self' data: fonts.googleapis.com/css fonts.gstatic.com; object-src 'self'; media-src 'self' www.tesla.com www.teslamotors.com; manifest-src 'self'; script-src 'self' 'nonce-ff5c6e9f-e378-429b-8861-2374541464dc' 'unsafe-inline' www.google-analytics.com; style-src 'self' 'unsafe-inline' blob: cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css fonts.googleapis.com/css
+
+Found. Redirecting to https://auth.tesla.com/oauth/v2/authorize?response_type=code&client_id=powerhub&redirect_uri=https%3A%2F%2Fpowerhub.energy.tesla.com%2Fauth%3FreturnTo%3D%252F&state=1567810358717%3A0.8844212818269683&scope=openid%20email

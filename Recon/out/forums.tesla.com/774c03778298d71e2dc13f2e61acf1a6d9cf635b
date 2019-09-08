@@ -1,0 +1,17 @@
+http://forums.tesla.com/
+
+> GET / HTTP/1.1
+> Host: forums.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Server: AkamaiGHost
+< Location: https://forums.tesla.com/
+< Expires: Fri, 06 Sep 2019 22:52:25 GMT
+< Content-Length: 0
+< Cache-Control: max-age=0, no-cache, no-store
+< Pragma: no-cache
+< Date: Fri, 06 Sep 2019 22:52:25 GMT
+< Server-Timing: cdn-cache; desc=HIT
+< Server-Timing: edge; dur=1
+

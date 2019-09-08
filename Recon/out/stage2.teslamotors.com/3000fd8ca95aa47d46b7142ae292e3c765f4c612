@@ -1,0 +1,25 @@
+http://stage2.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: stage2.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 403 Forbidden
+< Mime-Version: 1.0
+< Content-Type: text/html
+< Expires: Fri, 06 Sep 2019 22:52:34 GMT
+< Cache-Control: max-age=0, no-cache, no-store
+< Pragma: no-cache
+< Server: AkamaiGHost
+< Content-Length: 271
+< Date: Fri, 06 Sep 2019 22:52:34 GMT
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;stage2&#46;teslamotors&#46;com&#47;" on this server.<P>
+Reference&#32;&#35;18&#46;797df17&#46;1567810354&#46;9c1af77f
+</BODY>
+</HTML>

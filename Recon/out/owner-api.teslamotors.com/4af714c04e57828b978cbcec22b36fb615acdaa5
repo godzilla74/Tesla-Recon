@@ -1,0 +1,14 @@
+https://owner-api.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: owner-api.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< X-Request-Id: fdf83ba5-06e8-4079-b0ff-c20a077addef
+< X-Runtime: 0.003276
+< Server: nginx
+< Date: Fri, 06 Sep 2019 22:52:33 GMT
+< Cache-Control: no-cache
+
+Page not found

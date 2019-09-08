@@ -1,0 +1,19 @@
+https://gridlogic-api-eng.sn.tesla.services/
+
+> GET / HTTP/1.1
+> Host: gridlogic-api-eng.sn.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 400 Bad Request
+< Date: Fri, 06 Sep 2019 22:52:32 GMT
+< Content-Type: text/html
+< Content-Length: 230
+
+<html>
+<head><title>400 No required SSL certificate was sent</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>No required SSL certificate was sent</center>
+<hr><center>nginx</center>
+</body>
+</html>

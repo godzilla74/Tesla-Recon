@@ -1,0 +1,16 @@
+http://energystorage.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: energystorage.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Status: 301 Moved Permanently
+< Location: https://energystorage.teslamotors.com/
+< Server: nginx
+< Date: Fri, 06 Sep 2019 22:52:21 GMT
+< Content-Type: text/html
+< Cache-Control: no-cache
+< X-Request-Id: 6bf3e097-ccde-4b99-8b1a-8d9a35d88ce1
+< X-Runtime: 0.001710
+

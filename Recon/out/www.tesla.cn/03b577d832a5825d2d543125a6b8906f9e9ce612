@@ -1,0 +1,1502 @@
+https://www.tesla.cn/
+
+> GET / HTTP/1.1
+> Host: www.tesla.cn
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Last-Modified: Fri, 06 Sep 2019 19:44:09 GMT
+< X-Dispatcher: 2
+< X-Vhost: publish
+< X-Akamai-Transformed: 9 58462 0 pmb=mRUM,3
+< Content-Type: text/html; charset=UTF-8
+< Etag: "e45e-591e7a96ade8b"
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< Date: Fri, 06 Sep 2019 22:52:46 GMT
+< Server: Apache
+< Set-Cookie: AWSELB=5529AD9518716C3F5C2D99BFF5D1274662A41B20B92CA3923B4BFED9614E6CE65EF6EFA89D090DC05C8C5D2B0F210F4C1E36E02FEA30E57F1993087EF091AB29B22F1C8363;PATH=/;MAX-AGE=900
+< Server-Timing: cdn-cache; desc=MISS
+< Server-Timing: edge; dur=106
+< Server-Timing: origin; dur=349
+< Strict-Transport-Security: max-age=15768000
+< Accept-Ranges: bytes
+< Cache-Control: public, max-age=3600
+< Cache-Control: no-cache="set-cookie"
+
+<!doctype html>
+<html lang="zh">
+    
+    <head>
+        
+  
+  
+  <!-- Common meta tags for all pages -->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>纯电动车、太阳能面板和清洁能源存储  | Tesla</title>
+
+  <meta name="keywords" content="Tesla, 电动汽车, 电动汽车, 电动汽车, Elon Musk, Tesla 最新消息 , 可持续能源, Autopilot 自动辅助驾驶, 超级充电站 , Model S, Model X, Model 3"/>
+  <meta name="description" content="Tesla 正在通过电动汽车、太阳能电池板以及适用于家庭和企业的综合可再生能源解决方案，加速世界向可持续能源的转变。"/>
+
+  <!-- Lets get mobile -->
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta content="True" name="HandheldFriendly"/>
+  <meta id="viewport-tag" name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, minimal-ui, shrink-to-fit=no"/>
+
+  <!-- Favicons and Apple Touch Icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-57x57.png?2">
+  <link rel="apple-touch-icon" sizes="114x114" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-114x114.png?2">
+  <link rel="apple-touch-icon" sizes="72x72" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-72x72.png?2">
+  <link rel="apple-touch-icon" sizes="144x144" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-144x144.png?2">
+  <link rel="apple-touch-icon" sizes="60x60" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-60x60.png?2">
+  <link rel="apple-touch-icon" sizes="120x120" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-120x120.png?2">
+  <link rel="apple-touch-icon" sizes="76x76" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-76x76.png?2">
+  <link rel="apple-touch-icon" sizes="152x152" href="/etc/designs/tesla/commons-ui/assets/img/icons/apple-touch-icon-152x152.png?2">
+  <link rel="icon" type="image/png" href="/etc/designs/tesla/commons-ui/assets/img/icons/favicon-196x196.png" sizes="196x196?2">
+  <link rel="icon" type="image/png" href="/etc/designs/tesla/commons-ui/assets/img/icons/favicon-160x160.png" sizes="160x160?2">
+  <link rel="icon" type="image/png" href="/etc/designs/tesla/commons-ui/assets/img/icons/favicon-96x96.png" sizes="96x96?2">
+  <link rel="icon" type="image/png" href="/etc/designs/tesla/commons-ui/assets/img/icons/favicon-16x16.png" sizes="16x16?2">
+  <link rel="icon" type="image/png" href="/etc/designs/tesla/commons-ui/assets/img/icons/favicon-32x32.png" sizes="32x32?2">
+  <meta name="msapplication-TileColor" content="#cc0000">
+  <meta name="msapplication-TileImage" content="/etc/designs/tesla/commons-ui/assets/img/icons/mstile-144x144.png?2">
+
+  <!-- gplus sharing meta data -->
+  <meta property="og:url">
+  <meta property="og:title" content="电动汽车、太阳能面板和清洁能源存储 | Tesla">
+  <meta property="og:description" content="Tesla 正在通过电动汽车、太阳能电池板以及适用于家庭和企业的综合可再生能源解决方案，加速世界向可持续能源的转变。">
+  <meta property="og:image" content="https://www.tesla.com/ns_videos/hp_2019/main-hero-desktop.jpg ">
+  <meta property="og:image:url">
+  <meta property="og:image:secure_url">
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@tesla"/>
+  <meta name="twitter:site:id" content="@tesla"/>
+  <meta name="twitter:creator" content="@tesla "/>
+  <meta name="twitter:creator:id" content="@tesla "/>
+  <meta name="twitter:url" content="https://www.tesla.com"/>
+  <meta name="twitter:title" content="电动汽车、太阳能面板和清洁能源存储| Tesla"/>
+  <meta name="twitter:description" content="Tesla 正在通过电动汽车、太阳能电池板以及适用于家庭和企业的综合可再生能源解决方案，加速世界向可持续能源的转变。"/>
+  <meta name="twitter:image" content="https://www.tesla.com/ns_videos/hp_2019/main-hero-desktop.jpg "/>
+  
+
+  
+
+
+        
+    
+
+    
+    
+    
+    <!-- End Google Optimize -->
+
+    <!-- Google Analytics/Optimize -->
+    
+    
+    <!-- End Google Analytics/Optimize -->
+
+    <!-- Google Tag Manager -->
+    
+    <!-- End Google Tag Manager -->
+
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+          (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+      var piiParams = ['name', 'firstname', 'lastname', 'nickname', 'address', 'gender', 'p', 'e', 'profileurl', 'email', 'pwd', 'fname', 'lname', 'user', 'location', 'query'];  // CONFIG: Text to use whe replacing email addressed and parameters to be removed
+      var emailReplaceText = 'email_removed';
+      var paramReplaceText = '';  // Accepts string, returns same with anything that looks like an email address replaced with replaceText
+      var cleanEmail = function (str) {
+        if (!str) {
+          return '';
+        }
+        return str.replace(/([a-zA-Z0-9\.\+_-`~!#\$%\^&*\(\)]+(@|%40|%2540)[a-zA-Z0-9\.\+_-`~!#\$%\^&*\(\)]+\.[a-zA-Z0-9\.\+_-`~!#\$%\^*\(\)]+)/gi, emailReplaceText);
+      };
+
+      // Accepts string with key value pairs, like a query string, and returns same with pairs removed if the key is on the list of PII keys
+      var cleanParams = function (qs, replaceText) {
+        replaceText = replaceText || '';
+        if (!qs) {
+          return '';
+        }
+        var cleanedQS = '', queryArray = qs.split(/([&;#\?])/);
+        for (var i = 0, len = queryArray.length; i < len; i++) {
+          var name = queryArray[i].split('=')[0];
+          if (piiParams.includes(name)) {
+            //If nothing is placed for replaceText skip the trailing &.
+            if (replaceText === '') {
+              i++
+              continue
+            }
+            cleanedQS += replaceText;
+          } else {
+            cleanedQS += queryArray[i];
+          }
+        }
+        //Add back ? if a query string still exists.
+        if (cleanedQS !== '')
+          cleanedQS = '?' + cleanedQS
+        return cleanEmail(cleanedQS);
+      };
+
+      // Accepts full URL or URI stem and returns same with cleaned query string and/or hash identifier
+      var cleanPagePath = function (pagePath, emailRemovedText) {
+        if (!pagePath) {
+          return '';
+        }
+        var urlSplit = pagePath.split(/[\?\#]/);
+        console.log("~" + urlSplit)
+        return urlSplit[0] + cleanParams(urlSplit[1], emailRemovedText);
+      };
+      ga('create', 'UA-9152935-1', 'auto', {allowLinker: true});
+      ga('require', 'ec');
+      ga('set', 'currencyCode', 'CNY'); // Set tracker currency to CNY
+      ga('set', 'displayFeaturesTask', null);
+      ga('set', 'location', cleanPagePath(document.location.href));
+      ga('set', 'referrer', cleanPagePath(document.referrer));
+      ga('send', 'pageview');
+    </script>
+
+
+    
+    <script type="text/javascript">
+      var Tesla = Tesla || {};
+      Tesla.aem = Tesla.aem || {};
+
+      Tesla.aem.vars = {
+        language: "zh",
+        region: "CN",
+        locale: "zh_CN"
+      };
+    </script>
+
+    
+    
+
+
+
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/core/locale-redirect/clientlib.module.cc76252bd89ccac203bd45085a396089.js"></script>
+
+
+
+
+
+
+    
+    
+
+    
+        
+    
+<link rel="stylesheet" href="/etc/clientlibs/tesla/tds/clientlib.503c7a3d52bdea814ed79cd16da11195.css" type="text/css">
+
+
+
+    
+
+    
+
+    
+    
+<link rel="stylesheet" href="/etc/clientlibs/tesla/commons-ui/common-components.8599cd0f280379fad680c6ccea9b24f1.css" type="text/css">
+
+
+
+    
+
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc/clientlibs/tesla/commons-ui/mktg-overview-showcase.672bdd8078031fe1cdd41e0ce8c23eeb.css" type="text/css">
+
+
+
+    
+
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/tesla/commons-ui/components/hero/clientlib.module.20f30e420bbfd648fcca4561524265cc.css" type="text/css">
+
+
+
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/tesla/commons-ui/components/core/common/button-group/clientlib.module.865a935284a6902fc1858cb945e7f7bf.css" type="text/css">
+
+
+
+    
+        
+    
+
+
+
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/tesla/commons-ui/components/header/clientlib.module.372e3db4090719c3849734c762b635db.css" type="text/css">
+
+
+
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/tesla/tesla-site/components/pannable-carousel/clientlib.module.c55a59e4c81c6021cf04a52dfdff834d.css" type="text/css">
+
+
+
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/tesla/commons-ui/components/call-to-action/clientlib.module.5b0466b0f9b74c6b1b35d8492ca6d0ed.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/tesla/tesla-site/components/order/clientlib.module.369051a855108d35d17aaedc0ae045db.css" type="text/css">
+
+
+
+    
+
+    
+    
+
+
+
+
+    
+
+    
+
+
+    
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.5e8d3382f82b03b0bf3fea3024eecd61.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.e8faccc9e37c6a5cb56e4ec514c8c104.js"></script>
+
+
+
+
+    
+    
+
+    
+    
+    
+
+
+    
+        <link rel="stylesheet" href="/zh_CN/homepage.custom.1567730183619.css" type="text/css">
+    
+
+    
+    
+        <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+             (function(d, s) {
+               var js = d.createElement(s),
+               sc = d.getElementsByTagName(s)[0];
+               js.src = "/libraries/boomerang/boomerang-0.9.1466026245.js";
+               sc.parentNode.insertBefore(js, sc);
+             }(document, "script"));
+            //--><!]]>
+        </script>
+    
+
+    
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"CZ5PJ-C3ULH-UWR94-5N9HG-JMT9V",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="fuuynnfn365uixls4m7a-f-c7b995639-clientnsv4-s.akamaihd.net",i={"ak.v":23,"ak.cp":"642088","ak.ai":parseInt("224388",10),"ak.ol":"0","ak.cr":3,"ak.ipv":4,"ak.proto":"","ak.rid":"f27f0ad2","ak.r":33947,"ak.a2":e,"ak.m":"x","ak.n":"essl","ak.bpcip":"45.41.134.0","ak.cport":4105,"ak.gh":"23.223.151.87","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1567810366"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+    
+    <body id="page-homepage" class="page-homepage page-homepage template-mktg-overview-showcase-page tds-header-transparent--light page_has--scroll_locking page_has--first_screen-in_viewport page_has--parallax page_has--dark_screen-in_viewport page_has--default_static_nav page_has--default_drawer_static_nav i18n-zh_CN">
+        <!-- Body Analytics -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMG5DM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <div class="content-constrain">
+            
+
+
+    <div>
+    
+    
+
+    
+        
+    
+    
+    
+    
+
+    <input type="checkbox" id="tds-header-nav--secondary_show" class="tds-header-checkbox"/>
+    <header id="tds-header-main" class="tds-header-main tds-header--transparent_on_mobile ">
+        <div class="tds-header-main--container">
+            <div class="tds-container">
+                <h1 id="tesla-logo" class="tds-header-main--logo_container">
+                    <a href="https://www.tesla.cn/?redirect=no" class="tds-header-main--logo" title="Tesla 中国">Tesla 中国</a>
+                    
+                </h1>
+                
+                    <input type="checkbox" id="tds-header-main--trigger" class="tds-header-checkbox"/>
+                    <label for="tds-header-main--trigger" data-gtm-event="navigation" data-gtm-location="hamburger nav">
+                      <span class="tds-header-main--trigger_icon">
+                        <i class="tds-header-main--cross_hatch">&times;</i>
+                      </span>
+                    </label>
+                
+                <ol class="mobile-extra-header-nav--list">
+                    <li class="mobile-extra-header-nav--list_item">
+                        <a href="#" class="mobile-extra-header-nav--list_link"></a>
+                    </li>
+                </ol>
+                <nav class="tds-header-nav" data-gtm-event="navigation" data-gtm-location="top nav">
+                    <div class="tds-header-nav--primary">
+                        <ol class="tds-header-nav--list">
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/models" title="Model S" class="tds-header-nav--list_link">Model S</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/model3" title="Model 3" class="tds-header-nav--list_link">Model 3</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/modelx" title="Model X" class="tds-header-nav--list_link">Model X</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/modely" title="Model Y" class="tds-header-nav--list_link">Model Y</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/roadster" title="Roadster" class="tds-header-nav--list_link">Roadster</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/energy" title="Energy" class="tds-header-nav--list_link">Energy</a>
+                                </li>
+                            
+                            <li class="tds-header-nav--list_item tds-header-nav--list_item_last">
+                                <ol class="tds-header-nav--list tds-header-nav--primary_right">
+                                    
+                                    <li class="tds-header-nav--list_item">
+                                        <a href="https://www.tesla.cn/teslaaccount" title="Tesla Account" class="tds-link_for-logout tds-header-nav--auth_link tds-header-nav--list_link">Tesla 账户</a></li>
+                                    <li class="tds-header-nav--list_item">
+                                        <a href="https://www.tesla.cn/teslaaccount" title="登录" class="link_for-login tds-link_for-login tds-header-nav--auth_link tds-header-nav--list_link">登录</a></li>
+                                </ol>
+                            </li>
+                            <!-- as many as you want -->
+                        </ol>
+                    </div>
+                    <div class="tds-header-nav--secondary">
+                        <label for="tds-header-nav--secondary_show" class="tds-header-nav--list_link">
+                            更多 <span class="tds-header--more_caret">&rsaquo;</span>
+                        </label>
+                        <ol class="tds-header-nav--list tds-header-nav--parent_nav">
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/blog" title="资讯中心" class="tds-header-nav--list_link">资讯中心</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/inventory/new/m3" title="购买准现车" class="tds-header-nav--list_link">购买准现车</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/used" title="购买认证二手车" class="tds-header-nav--list_link">购买认证二手车</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/charging" title="如何充电" class="tds-header-nav--list_link">如何充电</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/findus" title="找到我们" class="tds-header-nav--list_link">找到我们</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/carbonimpact" title="减少碳排放" class="tds-header-nav--list_link">减少碳排放</a>
+                                </li>
+                            
+                                <li class="tds-header-nav--list_item   ">
+                                    <a href="https://www.tesla.cn/support" title="问题解答" class="tds-header-nav--list_link">问题解答</a>
+                                </li>
+                            
+                            <li class="tds-header-nav--list_item">
+                                <a href="https://www.tesla.cn/teslaaccount" title="Tesla Account" class="tds-link_for-logout tds-header-nav--auth_link tds-header-nav--list_link">Tesla 账户</a></li>
+                            <li class="tds-header-nav--list_item">
+                                <a href="https://www.tesla.cn/teslaaccount" title="登录" class="link_for-login tds-link_for-login tds-header-nav--auth_link tds-header-nav--list_link">登录</a></li>
+                            
+                            <!-- as many as you want -->
+                        </ol>
+                    </div>
+                    <div class="tds-header-nav--meta_info">
+                        <div class="tds-header-nav--account_links">
+                            <a href="https://www.tesla.cn/teslaaccount" title="登录" class="tds-header-nav--meta_link link_for-login tds-link_for-login">登录</a>
+                            <a href="https://www.tesla.cn/teslaaccount" title="Tesla Account" class="tds-header-nav--meta_link tds-link_for-logout">Tesla 账户</a>
+                            <a href="/services/commons-ui/logoutservlet.json?returnToUrl=/content/ell/cn/zh/tesla" title="注销" class="tds-header-nav--meta_link tds-subdued tds-link_for-logout">退出登录</a>
+                        </div>
+                    </div>
+                    
+                </nav>
+                <span id="tds-header-mask"></span>
+            </div>
+        </div>
+    </header>
+
+    
+
+    
+</div>
+
+
+
+
+            <main role="main">
+                
+  <section class="marketing_overview_showcase">
+    <section class="showcase_collection">
+      
+      <div class="root responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-904097340">
+    
+        
+        <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-1643638440">
+    
+        
+        <section class="showcase-screen aem-GridColumn aem-GridColumn--default--12">
+  
+  <span data-gtm-event="element-scroll" data-gtm-drawer="tesla" class="showcase-dataset feature" data-close-button-color="close_button--black" data-color-theme="dark" data-static-nav-color="default" data-drawer-static-nav-color="default" data-title="Tesla"></span>
+
+
+<section class="pannable-carousel">
+
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+
+  
+
+  <div class="pannable-carousel--default" id="pannable-carousel-2142694848" data-gtm-key="pannable-carousel-2142694848" style="--media-height: 100vh" data-car-amount="3" data-featured-car-index="1">
+    
+  
+  <div class="asset-container">
+    <picture class="hero-image hero-asset">
+      
+      <source srcset="https://www.tesla.com/ns_videos/hp_2019/main-hero-mobile.jpg" media="(max-width: 639px)">
+      <source srcset="https://www.tesla.com/ns_videos/hp_2019/main-hero-landscape.jpg" media="(max-width: 839px) and (orientation: landscape)">
+      <source srcset="https://www.tesla.com/ns_videos/hp_2019/main-hero-desktop.jpg" media="(min-width: 840px) and (orientation: landscape)">
+      <img class="image" src="https://www.tesla.com/ns_videos/hp_2019/main-hero-desktop.jpg">
+
+    </picture>
+  </div>
+
+  <div class="product-content--container">
+
+    
+      <div id="item0-361617821-content" class="product-content item0-361617821-content ">
+        <div class="heading-container animate--slide_and_fade">
+          <h1 class="top-caption">Model S</h1>
+        </div>
+        <div class="button-group tds-btn_group--stacked tds-btn_group--stacked_center animate--slide_and_fade" data-gtm-key="button-group">
+          <div class="tds-o-btn_group--item">
+            <a title="定制我的 Model S" href="https://www.tesla.cn/models/design" target="_self" class="tds-btn tds-btn--white tds-btn--large">
+              定制我的 Model S
+            </a>
+          </div>
+        
+          <div class="tds-o-btn_group--item">
+            <a title="了解 Model S" href="https://www.tesla.cn/models" target="_self" class="tds-btn tds-btn--outline tds-btn--white tds-btn--large">
+              了解 Model S
+            </a>
+          </div>
+        </div>
+
+        <div class="links animate--slide_and_fade">
+          <a class="links-top_link" title="预约试驾" href="https://www.tesla.cn/drive?model=ms" target="_self">
+            预约试驾
+          </a>
+        </div>
+        <p class="bottom-caption animate--slide_and_fade">
+          不限额度的免费超级充电服务
+        </p>
+      </div>
+    
+      <div id="item1-361617822-content" class="product-content item1-361617822-content product--is_active">
+        <div class="heading-container animate--slide_and_fade">
+          <h1 class="top-caption">Model 3</h1>
+        </div>
+        <div class="button-group tds-btn_group--stacked tds-btn_group--stacked_center animate--slide_and_fade" data-gtm-key="button-group">
+          <div class="tds-o-btn_group--item">
+            <a title="定制我的 Model 3" href="https://www.tesla.cn/model3/design" target="_self" class="tds-btn tds-btn--white tds-btn--large">
+              定制我的 Model 3
+            </a>
+          </div>
+        
+          <div class="tds-o-btn_group--item">
+            <a title="了解 Model 3" href="https://www.tesla.cn/model3" target="_self" class="tds-btn tds-btn--outline tds-btn--white tds-btn--large">
+              了解 Model 3
+            </a>
+          </div>
+        </div>
+
+        <div class="links animate--slide_and_fade">
+          <a class="links-top_link" title="预约试驾" href="https://www.tesla.cn/drive?model=m3" target="_self">
+            预约试驾
+          </a>
+        </div>
+        <p class="bottom-caption animate--slide_and_fade">
+           您可在7日内或1,600公里内（以先到者为准）退还您的车辆
+        </p>
+      </div>
+    
+      <div id="item2-361617823-content" class="product-content item2-361617823-content ">
+        <div class="heading-container animate--slide_and_fade">
+          <h1 class="top-caption">Model X</h1>
+        </div>
+        <div class="button-group tds-btn_group--stacked tds-btn_group--stacked_center animate--slide_and_fade" data-gtm-key="button-group">
+          <div class="tds-o-btn_group--item">
+            <a title="定制我的 Model X" href="https://www.tesla.cn/modelx/design" target="_self" class="tds-btn tds-btn--white tds-btn--large">
+              定制我的 Model X
+            </a>
+          </div>
+        
+          <div class="tds-o-btn_group--item">
+            <a title="了解 Model X" href="https://www.tesla.cn/modelx" target="_self" class="tds-btn tds-btn--outline tds-btn--white tds-btn--large">
+              了解 Model X
+            </a>
+          </div>
+        </div>
+
+        <div class="links animate--slide_and_fade">
+          <a class="links-top_link" title="预约试驾" href="https://www.tesla.cn/drive?model=mx" target="_self">
+            预约试驾
+          </a>
+        </div>
+        <p class="bottom-caption animate--slide_and_fade">
+          不限额度的免费超级充电服务
+        </p>
+      </div>
+    
+    
+    <ul class="tds-carousel-indicators">
+      <li><button class="tds-carousel-indicator " data-activeslide="item0-361617821"></button></li>
+    
+      <li><button class="tds-carousel-indicator tds-carousel-indicator--active" data-activeslide="item1-361617822"></button></li>
+    
+      <li><button class="tds-carousel-indicator " data-activeslide="item2-361617823"></button></li>
+    </ul>
+
+    <div class="tds-icon--jump tds-icon tds-icon-arrow_down tds-icon-arrow_down--inverted"></div>
+  </div>
+
+
+  </div>
+
+
+
+
+</section>
+
+</section>
+<section class="showcase-screen aem-GridColumn aem-GridColumn--default--12">
+  
+  <span data-gtm-event="element-scroll" data-gtm-drawer="探索tesla" class="showcase-dataset feature" data-close-button-color="close_button--black" data-color-theme="dark" data-static-nav-color="invert" data-drawer-static-nav-color="default" data-title="探索 Tesla"></span>
+
+
+<section class="hero">
+
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+
+  
+
+  
+  
+  
+  
+  
+
+  <div class="hero--default hero-theme--alternate tsla-page_header--alternate  fillViewport " id="hero-499683064" data-gtm-key="hero-499683064" style="--media-height: 100vh; --cmp-height-unit: 1vh">
+    
+      
+  
+  
+  <video class="hero-video hero-asset" preload="auto" playsinline autoplay data-autoplay-desktop data-autoplay-mobile muted poster="/content/dam/tesla-site/home-page/poster-images/experience-desktop.jpg/jcr:content/renditions/original.optimized.jpg" data-poster-desktop="/content/dam/tesla-site/home-page/poster-images/experience-desktop.jpg/jcr:content/renditions/original.optimized.jpg" data-poster-mobile="/content/dam/tesla-site/home-page/poster-images/experience-mobile.jpg/jcr:content/renditions/original.optimized.png" data-src-desktop="https://www.tesla.com/ns_videos/hp_2019/experience-hero-desktop.mp4" data-src-mobile="https://www.tesla.com/ns_videos/hp_2019/experience-hero-mobile.mp4" data-object-fit="true"></video>
+  <noscript>
+    <video class="hero-video hero-asset" preload="auto" playsinline autoplay muted poster="/content/dam/tesla-site/home-page/poster-images/experience-desktop.jpg/jcr:content/renditions/original.optimized.jpg" src="https://www.tesla.com/ns_videos/hp_2019/experience-hero-desktop.mp4"></video>
+  </noscript>
+  
+
+  
+  
+  
+  <div data-gtm-event="drawer-interaction" data-gtm-drawer="探索tesla" data-gtm-interaction="close" class="tds-icon--jump tds-icon tds-icon-arrow_down  tds--hide_on_mobile"></div>
+  
+
+      <div class="hero-regions">
+  
+  <div class="hero-region--left">
+    
+  </div>
+  <div class="hero-region--center">
+    <div class="hero-region--top">
+      
+      <header>
+        <h1 id="hero" class="tds-hero_header">
+          
+          <span class="tds-hero_header-lower  ">探索 Tesla</span>
+        </h1>
+      </header>
+    </div>
+    <div class="hero-region--bottom">
+      <div class="hero-parsys--bottom responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-1946389885">
+    
+        
+        <section class="button-group aem-GridColumn aem-GridColumn--default--12">
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+  <div id="button-group-504678620" data-gtm-key="button-group-504678620">
+    
+      
+          <a href="https://www.tesla.cn/findus/store" title="莅临体验店" class="tds-btn tds-btn--white tds-btn--large  ">莅临体验店</a>
+          
+      
+    
+      
+          <a href="https://www.tesla.cn/inventory/new/m3" title="准现车" class="tds-btn tds-btn--outline tds-btn--white tds-btn--large  ">准现车</a>
+          
+      
+    
+      
+          <a href="https://www.tesla.cn/used" title="认证二手车" class="tds-btn tds-btn--outline tds-btn--white tds-btn--large  ">认证二手车</a>
+          
+      
+    
+  </div>
+</section>
+
+        
+    
+</div></div>
+
+      
+      
+      
+    </div>
+  </div>
+  <div class="hero-region--right">
+    
+  </div>
+  
+  
+  
+  
+  
+  
+</div>
+      
+    
+  </div>
+
+
+
+
+
+
+
+
+
+</section>
+</section>
+<section class="showcase-screen aem-GridColumn aem-GridColumn--default--12">
+  
+  <span data-gtm-event="element-scroll" data-gtm-drawer="驱动一切" class="showcase-dataset feature" data-close-button-color="close_button--black" data-color-theme="dark" data-static-nav-color="invert" data-drawer-static-nav-color="default" data-title="驱动一切"></span>
+
+
+<section class="hero">
+
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+
+  
+
+  
+  
+  
+  
+  
+
+  <div class="hero--default hero-theme--alternate tsla-page_header--alternate  fillViewport " id="hero-1739526539" data-gtm-key="hero-1739526539" style="--media-height: 100vh; --cmp-height-unit: 1vh">
+    
+      
+  
+  <picture class="hero-image hero-asset lozad" data-iesrc="/content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg" data-alt="Hero Component">
+    <source srcset="/content/dam/tesla-site/home-page/images/homepage-solar-01.jpg/_jcr_content/renditions/cq5dam.tinypng.400.auto.jpg, /content/dam/tesla-site/home-page/images/homepage-solar-01.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(max-width: 639px) and (orientation:portrait)"/>
+    <source srcset="/content/dam/tesla-site/home-page/images/homepage-solar-01.jpg/_jcr_content/renditions/cq5dam.tinypng.400.auto.jpg, /content/dam/tesla-site/home-page/images/homepage-solar-01.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(max-width: 839px) and (orientation:landscape)"/>
+    <source srcset="/content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(min-width: 640px) and (orientation:portrait)"/>
+    <source srcset="/content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(min-width: 840px) and (orientation:landscape)"/>
+    <noscript><img src="/content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg" srcset="/content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/home-page/images/homepage-solar@2x.jpg/_jcr_content/renditions/original.optimized.jpg 2x" alt="Hero Component" class="tds-asset-fallback"/></noscript>
+  </picture>
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+      <div class="hero-regions">
+  
+  <div class="hero-region--left">
+    
+  </div>
+  <div class="hero-region--center">
+    <div class="hero-region--top">
+      
+      <header>
+        <h1 id="hero" class="tds-hero_header">
+          
+          <span class="tds-hero_header-lower  ">能源产品</span>
+        </h1>
+      </header>
+    </div>
+    <div class="hero-region--bottom">
+      <div class="hero-parsys--bottom responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-1146506362">
+    
+        
+        <section class="rich-text aem-GridColumn aem-GridColumn--default--12">
+  
+  
+    
+
+
+  
+
+  
+
+  
+  
+    <div id="rich-text-289585703" data-gtm-key="rich-text-289585703">
+      
+        <h3 style="text-align: center;color: rgb(255,255,255);font-family: Gotham Book;">太阳能设备和 Powerwall</h3>
+      
+    </div>
+  
+</section>
+<section class="button-group aem-GridColumn aem-GridColumn--default--12">
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+  <div id="button-group-2058189639" data-gtm-key="button-group-2058189639">
+    
+      
+          <a href="https://www.tesla.cn/energy" title="了解更多" class="tds-btn tds-btn--white tds-btn--large  ">了解更多</a>
+          
+      
+    
+  </div>
+</section>
+
+        
+    
+</div></div>
+
+      
+      
+      
+    </div>
+  </div>
+  <div class="hero-region--right">
+    
+  </div>
+  
+  
+  
+  
+  
+  
+</div>
+      
+    
+  </div>
+
+
+
+
+
+
+
+
+
+</section>
+</section>
+<section class="showcase-screen aem-GridColumn aem-GridColumn--default--12">
+  
+  <span data-gtm-event="element-scroll" data-gtm-drawer="modely" class="showcase-dataset feature" data-close-button-color="close_button--black" data-color-theme="dark" data-static-nav-color="default" data-drawer-static-nav-color="default" data-title="Model Y"></span>
+
+
+<section class="hero">
+
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+
+  
+
+  
+  
+  
+  
+  
+
+  <div class="hero--default hero-theme--alternate tsla-page_header--alternate  fillViewport " id="homepage-new" data-gtm-key="homepage-new" style="--media-height: 100vh; --cmp-height-unit: 1vh">
+    
+      
+  
+  <picture class="hero-image hero-asset lozad" data-iesrc="/content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg" data-alt="Hero Component">
+    <source srcset="/content/dam/tesla-site/wolverine/homepage/blue-hero-mobile.jpg/_jcr_content/renditions/cq5dam.tinypng.400.auto.jpg, /content/dam/tesla-site/wolverine/homepage/blue-hero-mobile.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(max-width: 639px) and (orientation:portrait)"/>
+    <source srcset="/content/dam/tesla-site/wolverine/homepage/blue-hero-mobile.jpg/_jcr_content/renditions/cq5dam.tinypng.400.auto.jpg, /content/dam/tesla-site/wolverine/homepage/blue-hero-mobile.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(max-width: 839px) and (orientation:landscape)"/>
+    <source srcset="/content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(min-width: 640px) and (orientation:portrait)"/>
+    <source srcset="/content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/original.optimized.jpg 2x" media="(min-width: 840px) and (orientation:landscape)"/>
+    <noscript><img src="/content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg" srcset="/content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/cq5dam.tinypng.1440.auto.jpg, /content/dam/tesla-site/wolverine/homepage/blue-hero-desktop.jpg/_jcr_content/renditions/original.optimized.jpg 2x" alt="Hero Component" class="tds-asset-fallback"/></noscript>
+  </picture>
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+      <div class="hero-regions">
+  
+  <div class="hero-region--left">
+    
+  </div>
+  <div class="hero-region--center">
+    <div class="hero-region--top">
+      
+      <header>
+        <h1 id="hero" class="tds-hero_header">
+          <span class="tds-hero_header-upper  ">Tesla</span>
+          <span class="tds-hero_header-lower  ">Model Y</span>
+        </h1>
+      </header>
+    </div>
+    <div class="hero-region--bottom">
+      <div class="hero-parsys--bottom responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-419023811">
+    
+        
+        <section class="button-group aem-GridColumn aem-GridColumn--default--12">
+  
+    
+
+
+  
+
+  
+  
+
+  
+  
+
+  <div id="button-group-164701538" data-gtm-key="button-group-164701538">
+    
+      
+          <a href="https://www.tesla.cn/modely/design" title="立即下单" class="tds-btn tds-btn--white tds-btn--large  ">立即下单</a>
+          
+      
+    
+  </div>
+</section>
+
+        
+    
+</div></div>
+
+      
+      
+      
+    </div>
+  </div>
+  <div class="hero-region--right">
+    
+  </div>
+  
+  
+  
+  
+  
+  
+</div>
+      
+    
+  </div>
+
+
+
+
+
+
+
+
+
+</section>
+</section>
+
+        
+    
+</div></div>
+
+        
+    
+</div></div>
+
+    </section>
+    <nav class="drawer-nav">
+      <div class="drawer-nav--sticky_header">
+        <h1 class="drawer-nav--logo_container">
+          <a href="/" class="drawer-nav--logo" title="Tesla Motors">
+            <i class="tds-icon tds-icon-wordmark--inverted tds-icon--jumbo" aria-hidden="true"></i></a>
+        </h1>
+        <div class="tds-list">
+          
+        </div>
+      </div>
+      <a class="drawer-nav-close_button" data-gtm-event="drawer-interaction" data-gtm-interaction="close">
+        <i class="tds-icon tds-icon-close tds-icon--medium tds-o-icon--medium"></i>
+        <i class="tds-icon tds-icon-chevron_down tds-icon--medium tds-o-icon--medium tds-o-icon-hidden"></i>
+        <span class="drawer-nav-close_label drawer-nav-close_label--next tds-text--annotation_headline">后一项</span>
+        <span class="drawer-nav-close_label drawer-nav-close_label--close tds-text--annotation_headline">关闭</span>
+      </a>
+    </nav>
+    <nav class="sticky-nav--mobile animate_scrolltop--to_reveal">
+      <h1 class="sticky-nav--logo_container">
+        <a href="/" class="sticky-nav--logo" title="Tesla Motors">
+          <i class="tds-icon tds-icon-wordmark--inverted tds-icon--jumbo" aria-hidden="true"></i>
+        </a>
+        <a href="javascript:void(0)" class="sticky-nav--arrow">
+          <i class="tds-icon tds-icon-arrow_up" aria-hidden="true"></i>
+        </a>
+      </h1>
+      <div class="sticky-nav--buttons">
+        
+      </div>
+    </nav>
+    <nav class="sticky-nav--desktop">
+      <h1 class="sticky-nav--logo_container">
+        <a href="/" class="sticky-nav--logo" title="Tesla Motors">
+          <i class="tds-icon tds-icon-wordmark--inverted tds-icon--jumbo" aria-hidden="true"></i>
+        </a>
+        <a href="javascript:void(0)" class="sticky-nav--arrow">
+          <i class="tds-icon tds-icon-arrow_up" aria-hidden="true"></i>
+        </a>
+      </h1>
+    </nav>
+    <ul class="side_nav-container tds-list">
+    </ul>
+  </section>
+
+            </main>
+        </div>
+
+        
+
+
+    <div>
+    
+    
+
+    
+        
+    
+        <footer class="tds-footer ">
+            <ul class="tds-footer-meta tds-footer--centered">
+                <li class="tds-footer-list_item"><a href="https://www.tesla.cn/about" class="tds-footer-list_link">Tesla &copy;
+                    2019</a></li>
+                
+                    <li class="tds-footer-list_item"><a href="http://www.miibeian.gov.cn/" target="_blank" title="沪ICP备14038430号-1" class="tds-footer-list_link">沪ICP备14038430号-1</a>
+                        
+                    </li>
+                
+                    <li class="tds-footer-list_item"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011502002791" target="_blank" title="京公网安备 11011502002791号" class="tds-footer-list_link">京公网安备 11011502002791号</a>
+                        
+                    </li>
+                
+                    <li class="tds-footer-list_item"><a href="https://www.tesla.cn/about/legal" target="_self" title="隐私和法律" class="tds-footer-list_link">隐私和法律</a>
+                        
+                    </li>
+                
+                    <li class="tds-footer-list_item tds--hide_on_mobile"><a href="https://www.tesla.cn/contact" target="_self" title="联系我们" class="tds-footer-list_link">联系我们</a>
+                        
+                    </li>
+                
+                    <li class="tds-footer-list_item tds--hide_on_mobile"><a href="https://www.tesla.cn/careers" target="_self" title="工作机会" class="tds-footer-list_link">工作机会</a>
+                        
+                    </li>
+                
+                <li class="tds-footer-list_item">
+                    <a href="/services/commons-ui/logoutservlet.json?returnToUrl=/content/ell/cn/zh/tesla" title="注销" class="tds-footer-list_link tds-link_for-logout">退出登录</a>
+                </li>
+            </ul>
+            
+        </footer>
+    
+    
+    <div class="modal-open">
+        <div class="tds-modal tds-modal--large tds-modal--dark modal-locale hidden modal-locale-alt">
+            <div class="tds-modal-content">
+                <button class="tds-btn--close tds-modal-close" data-trigger-modal="close">&times;</button>
+                <div class="tds-modal-body">
+                    <div class="locale-main-header">
+                        <h1 class="locale-header notranslate">Select Your Region</h1>
+                    </div>
+                    <div class="locale-list-container">
+                        
+                        
+                            
+    
+        <div class="locale-region--north_america">
+            <h4 class="region-title">North America</h4>
+            <ul class="region-list">
+                <li class="region-item i18n-en_US " data-sublang="us">
+                    <i class="tds-icon tds-icon-flag--us"></i>
+                    <a href="https://www.tesla.com/homepage?redirect=no" rel="en_US" title="United States" class="region-link notranslate">United States</a>
+                </li>
+            
+                <li class="region-item i18n-en_CA has-sublang" data-sublang="ca">
+                    <i class="tds-icon tds-icon-flag--ca"></i>
+                    <a href="https://www.tesla.com/en_CA/homepage?redirect=no" rel="en_CA" title="Canada (En)" class="region-link notranslate">Canada</a>
+                </li>
+            
+                <li class="region-item i18n-en_CA is-sublang-ca hidden" data-sublang="ca">
+                    <i class="tds-icon tds-icon-flag--ca"></i>
+                    <a href="https://www.tesla.com/en_CA/homepage?redirect=no" rel="en_CA" title="English" class="region-link notranslate">English</a>
+                </li>
+            
+                <li class="region-item i18n-fr_CA is-sublang-ca hidden" data-sublang="ca">
+                    <i class="tds-icon tds-icon-flag--ca"></i>
+                    <a href="https://www.tesla.com/fr_CA/homepage?redirect=no" rel="fr_CA" title="Français" class="region-link notranslate">Français</a>
+                </li>
+            
+                <li class="region-item i18n-es_MX " data-sublang="mx">
+                    <i class="tds-icon tds-icon-flag--mx"></i>
+                    <a href="https://www.tesla.com/es_MX/homepage?redirect=no" rel="es_MX" title="México" class="region-link notranslate">México</a>
+                </li>
+            </ul>
+        </div>
+    
+        <div class="locale-region--europe">
+            <h4 class="region-title">Europe</h4>
+            <ul class="region-list">
+                <li class="region-item i18n-nl_BE has-sublang" data-sublang="be">
+                    <i class="tds-icon tds-icon-flag--be"></i>
+                    <a href="https://www.tesla.com/nl_BE/homepage?redirect=no" rel="nl_BE" title="Belgium" class="region-link notranslate">Belgium</a>
+                </li>
+            
+                <li class="region-item i18n-nl_BE is-sublang-be hidden" data-sublang="be">
+                    <i class="tds-icon tds-icon-flag--be"></i>
+                    <a href="https://www.tesla.com/nl_BE/homepage?redirect=no" rel="nl_BE" title="Nederlands" class="region-link notranslate">Nederlands</a>
+                </li>
+            
+                <li class="region-item i18n-fr_BE is-sublang-be hidden" data-sublang="be">
+                    <i class="tds-icon tds-icon-flag--be"></i>
+                    <a href="https://www.tesla.com/fr_BE/homepage?redirect=no" rel="fr_BE" title="Français" class="region-link notranslate">Français</a>
+                </li>
+            
+                <li class="region-item i18n-da_DK " data-sublang="dk">
+                    <i class="tds-icon tds-icon-flag--dk"></i>
+                    <a href="https://www.tesla.com/da_DK/homepage?redirect=no" rel="da_DK" title="Danmark" class="region-link notranslate">Danmark</a>
+                </li>
+            
+                <li class="region-item i18n-de_DE " data-sublang="de">
+                    <i class="tds-icon tds-icon-flag--de"></i>
+                    <a href="https://www.tesla.com/de_DE/homepage?redirect=no" rel="de_DE" title="Deutschland" class="region-link notranslate">Deutschland</a>
+                </li>
+            
+                <li class="region-item i18n-es_ES " data-sublang="es">
+                    <i class="tds-icon tds-icon-flag--es"></i>
+                    <a href="https://www.tesla.com/es_ES/homepage?redirect=no" rel="es_ES" title="España" class="region-link notranslate">España</a>
+                </li>
+            
+                <li class="region-item i18n-fr_FR " data-sublang="fr">
+                    <i class="tds-icon tds-icon-flag--fr"></i>
+                    <a href="https://www.tesla.com/fr_FR/homepage?redirect=no" rel="fr_FR" title="France" class="region-link notranslate">France</a>
+                </li>
+            
+                <li class="region-item i18n-en_GB " data-sublang="gb">
+                    <i class="tds-icon tds-icon-flag--gb"></i>
+                    <a href="https://www.tesla.com/en_GB/homepage?redirect=no" rel="en_GB" title="United Kingdom" class="region-link notranslate">United Kingdom</a>
+                </li>
+            
+                <li class="region-item i18n-en_IE " data-sublang="ie">
+                    <i class="tds-icon tds-icon-flag--ie"></i>
+                    <a href="https://www.tesla.com/en_IE/homepage?redirect=no" rel="en_IE" title="Ireland" class="region-link notranslate">Ireland</a>
+                </li>
+            
+                <li class="region-item i18n-is_IS " data-sublang="is">
+                    <i class="tds-icon tds-icon-flag--is"></i>
+                    <a href="https://www.tesla.com/is_IS/homepage?redirect=no" rel="is_IS" title="Ísland" class="region-link notranslate">Ísland</a>
+                </li>
+            
+                <li class="region-item i18n-it_IT " data-sublang="it">
+                    <i class="tds-icon tds-icon-flag--it"></i>
+                    <a href="https://www.tesla.com/it_IT/homepage?redirect=no" rel="it_IT" title="Italia" class="region-link notranslate">Italia</a>
+                </li>
+            
+                <li class="region-item i18n-fr_LU has-sublang" data-sublang="lu">
+                    <i class="tds-icon tds-icon-flag--lu"></i>
+                    <a href="https://www.tesla.com/fr_LU/homepage?redirect=no" rel="fr_LU" title="Luxembourg" class="region-link notranslate">Luxembourg</a>
+                </li>
+            
+                <li class="region-item i18n-fr_LU is-sublang-lu hidden" data-sublang="lu">
+                    <i class="tds-icon tds-icon-flag--lu"></i>
+                    <a href="https://www.tesla.com/fr_LU/homepage?redirect=no" rel="fr_LU" title="Français" class="region-link notranslate">Français</a>
+                </li>
+            
+                <li class="region-item i18n-de_LU is-sublang-lu hidden" data-sublang="lu">
+                    <i class="tds-icon tds-icon-flag--lu"></i>
+                    <a href="https://www.tesla.com/de_LU/homepage?redirect=no" rel="de_LU" title="Deutsch" class="region-link notranslate">Deutsch</a>
+                </li>
+            
+                <li class="region-item i18n-nl_NL " data-sublang="nl">
+                    <i class="tds-icon tds-icon-flag--nl"></i>
+                    <a href="https://www.tesla.com/nl_NL/homepage?redirect=no" rel="nl_NL" title="Nederland" class="region-link notranslate">Nederland</a>
+                </li>
+            
+                <li class="region-item i18n-no_NO " data-sublang="no">
+                    <i class="tds-icon tds-icon-flag--no"></i>
+                    <a href="https://www.tesla.com/no_NO/homepage?redirect=no" rel="no_NO" title="Norge" class="region-link notranslate">Norge</a>
+                </li>
+            
+                <li class="region-item i18n-de_AT " data-sublang="at">
+                    <i class="tds-icon tds-icon-flag--at"></i>
+                    <a href="https://www.tesla.com/de_AT/homepage?redirect=no" rel="de_AT" title="Österreich" class="region-link notranslate">Österreich</a>
+                </li>
+            
+                <li class="region-item i18n-pt_PT " data-sublang="pt">
+                    <i class="tds-icon tds-icon-flag--pt"></i>
+                    <a href="https://www.tesla.com/pt_PT/homepage?redirect=no" rel="pt_PT" title="Portugal" class="region-link notranslate">Portugal</a>
+                </li>
+            
+                <li class="region-item i18n-de_CH has-sublang" data-sublang="ch">
+                    <i class="tds-icon tds-icon-flag--ch"></i>
+                    <a href="https://www.tesla.com/de_CH/homepage?redirect=no" rel="de_CH" title="Switzerland" class="region-link notranslate">Switzerland</a>
+                </li>
+            
+                <li class="region-item i18n-de_CH is-sublang-ch hidden" data-sublang="ch">
+                    <i class="tds-icon tds-icon-flag--ch"></i>
+                    <a href="https://www.tesla.com/de_CH/homepage?redirect=no" rel="de_CH" title="Deutsch" class="region-link notranslate">Deutsch</a>
+                </li>
+            
+                <li class="region-item i18n-fr_CH is-sublang-ch hidden" data-sublang="ch">
+                    <i class="tds-icon tds-icon-flag--ch"></i>
+                    <a href="https://www.tesla.com/fr_CH/homepage?redirect=no" rel="fr_CH" title="Français" class="region-link notranslate">Français</a>
+                </li>
+            
+                <li class="region-item i18n-it_CH is-sublang-ch hidden" data-sublang="ch">
+                    <i class="tds-icon tds-icon-flag--ch"></i>
+                    <a href="https://www.tesla.com/it_CH/homepage?redirect=no" rel="it_CH" title="Italiano" class="region-link notranslate">Italiano</a>
+                </li>
+            
+                <li class="region-item i18n-sv_SE " data-sublang="se">
+                    <i class="tds-icon tds-icon-flag--se"></i>
+                    <a href="https://www.tesla.com/sv_SE/homepage?redirect=no" rel="sv_SE" title="Sverige" class="region-link notranslate">Sverige</a>
+                </li>
+            
+                <li class="region-item i18n-fi_FI " data-sublang="fi">
+                    <i class="tds-icon tds-icon-flag--fi"></i>
+                    <a href="https://www.tesla.com/fi_FI/homepage?redirect=no" rel="fi_FI" title="Suomi" class="region-link notranslate">Suomi</a>
+                </li>
+            
+                <li class="region-item i18n-en_EU " data-sublang="eu">
+                    <i class="tds-icon tds-icon-flag--eu"></i>
+                    <a href="https://www.tesla.com/en_EU/homepage?redirect=no" rel="en_EU" title="Other Europe" class="region-link notranslate">Other Europe</a>
+                </li>
+            </ul>
+        </div>
+    
+        <div class="locale-region--middle_east">
+            <h4 class="region-title">Middle-East</h4>
+            <ul class="region-list">
+                <li class="region-item i18n-en_AE " data-sublang="ae">
+                    <i class="tds-icon tds-icon-flag--ae"></i>
+                    <a href="https://www.tesla.com/en_AE/homepage?redirect=no" rel="en_AE" title="UAE" class="region-link notranslate">UAE</a>
+                </li>
+            
+                <li class="region-item i18n-en_JO " data-sublang="jo">
+                    <i class="tds-icon tds-icon-flag--jo"></i>
+                    <a href="https://www.tesla.com/en_JO/homepage?redirect=no" rel="en_JO" title="Jordan" class="region-link notranslate">Jordan</a>
+                </li>
+            </ul>
+        </div>
+    
+        <div class="locale-region--asia_pacific">
+            <h4 class="region-title">Asia/Pacific</h4>
+            <ul class="region-list">
+                <li class="region-item i18n-zh_CN " data-sublang="cn">
+                    <i class="tds-icon tds-icon-flag--cn"></i>
+                    <a href="https://www.tesla.cn?redirect=no" rel="zh_CN" title="中国大陆" class="region-link notranslate">中国大陆</a>
+                </li>
+            
+                <li class="region-item i18n-en_HK has-sublang" data-sublang="hk">
+                    <i class="tds-icon tds-icon-flag--hk"></i>
+                    <a href="https://www.tesla.com/en_HK/homepage?redirect=no" rel="en_HK" title="Hong Kong" class="region-link notranslate">Hong Kong</a>
+                </li>
+            
+                <li class="region-item i18n-en_HK is-sublang-hk hidden" data-sublang="hk">
+                    <i class="tds-icon tds-icon-flag--hk"></i>
+                    <a href="https://www.tesla.com/en_HK/homepage?redirect=no" rel="en_HK" title="English" class="region-link notranslate">English</a>
+                </li>
+            
+                <li class="region-item i18n-zh_HK is-sublang-hk hidden" data-sublang="hk">
+                    <i class="tds-icon tds-icon-flag--hk"></i>
+                    <a href="https://www.tesla.com/zh_HK/homepage?redirect=no" rel="zh_HK" title="繁體中文" class="region-link notranslate">繁體中文</a>
+                </li>
+            
+                <li class="region-item i18n-en_MO has-sublang" data-sublang="mo">
+                    <i class="tds-icon tds-icon-flag--mo"></i>
+                    <a href="https://www.tesla.com/en_MO/homepage?redirect=no" rel="en_MO" title="Macau" class="region-link notranslate">Macau</a>
+                </li>
+            
+                <li class="region-item i18n-en_MO is-sublang-mo hidden" data-sublang="mo">
+                    <i class="tds-icon tds-icon-flag--mo"></i>
+                    <a href="https://www.tesla.com/en_MO/homepage?redirect=no" rel="en_MO" title="English" class="region-link notranslate">English</a>
+                </li>
+            
+                <li class="region-item i18n-zh_MO is-sublang-mo hidden" data-sublang="mo">
+                    <i class="tds-icon tds-icon-flag--mo"></i>
+                    <a href="https://www.tesla.com/zh_MO/homepage?redirect=no" rel="zh_MO" title="繁體中文" class="region-link notranslate">繁體中文</a>
+                </li>
+            
+                <li class="region-item i18n-zh_TW " data-sublang="tw">
+                    <i class="tds-icon tds-icon-flag--tw"></i>
+                    <a href="https://www.tesla.com/zh_TW/homepage?redirect=no" rel="zh_TW" title="台灣" class="region-link notranslate">台灣</a>
+                </li>
+            
+                <li class="region-item i18n-ja_JP " data-sublang="jp">
+                    <i class="tds-icon tds-icon-flag--jp"></i>
+                    <a href="https://www.tesla.com/jp/homepage?redirect=no" rel="ja_JP" title="日本" class="region-link notranslate">日本</a>
+                </li>
+            
+                <li class="region-item i18n-ko_KR " data-sublang="kr">
+                    <i class="tds-icon tds-icon-flag--kr"></i>
+                    <a href="https://www.tesla.com/ko_KR/homepage?redirect=no" rel="ko_KR" title="대한민국" class="region-link notranslate">대한민국</a>
+                </li>
+            
+                <li class="region-item i18n-en_AU " data-sublang="au">
+                    <i class="tds-icon tds-icon-flag--au"></i>
+                    <a href="https://www.tesla.com/en_AU/homepage?redirect=no" rel="en_AU" title="Australia" class="region-link notranslate">Australia</a>
+                </li>
+            
+                <li class="region-item i18n-en_NZ " data-sublang="nz">
+                    <i class="tds-icon tds-icon-flag--nz"></i>
+                    <a href="https://www.tesla.com/en_NZ/homepage?redirect=no" rel="en_NZ" title="New Zealand" class="region-link notranslate">New Zealand</a>
+                </li>
+            </ul>
+        </div>
+    
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    
+
+    
+    
+
+</div>
+
+
+
+        <!-- Modal Container -->
+<div class="modal-container responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12  " id="responsivegrid-1564660130">
+    
+        
+        
+        
+    
+</div></div>
+
+
+        
+  
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/header/clientlibrary.54653bb4e00e6d7336ec94f30c3d1eee.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/core/clientlibs/geoip2/clientlib.module.de24e24d8a0bdeb3027196171396f42f.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/tesla/commons-ui/common-components.e731743f113a0fa59982319e1c7b7605.js"></script>
+
+
+
+    
+    
+      
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/core/clientlibs/redux/clientlib.module.9e2b5182e26780a94c25dd7104ccb576.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/core/clientlibs/tween-max/clientlib.66b5c27856481f58c53af801e71d7c16.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/tesla/commons-ui/mktg-overview-showcase.ddf02fa4e1fcde2eb90c6e29d239fdf5.js"></script>
+
+
+
+    
+
+    <div>
+
+
+
+
+
+</div>
+
+    
+    
+      
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/hero/clientlib.module.ad405215c3cc491b73f4e096376ebd7b.js"></script>
+
+
+
+    
+      
+    
+
+
+
+    
+      
+    
+
+
+
+    
+      
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/commons-ui/components/header/clientlib.module.3eb29e4eb13e2a9e182834f89d2ab8e0.js"></script>
+
+
+
+    
+      
+    
+<script type="text/javascript" src="/etc.clientlibs/tesla/tesla-site/components/pannable-carousel/clientlib.module.602197a1c6b38ad69b2aac2f9df08f9b.js"></script>
+
+
+
+    
+      
+    
+
+
+
+    
+    
+    
+
+
+
+    
+    
+<script type="text/javascript" src="/etc/clientlibs/tesla/commons-ui/local-storage.098c386c373977869836233633d6d2fa.js"></script>
+
+
+
+  
+
+  <!-- Footer Analytics -->
+  
+
+
+    </body>
+
+</html>

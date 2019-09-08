@@ -1,0 +1,17 @@
+http://www.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: www.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=0, no-cache, no-store
+< Date: Fri, 06 Sep 2019 22:52:41 GMT
+< Server: AkamaiGHost
+< Expires: Fri, 06 Sep 2019 22:52:41 GMT
+< Pragma: no-cache
+< Server-Timing: cdn-cache; desc=HIT
+< Server-Timing: edge; dur=1
+< Content-Length: 0
+< Location: https://www.teslamotors.com/
+

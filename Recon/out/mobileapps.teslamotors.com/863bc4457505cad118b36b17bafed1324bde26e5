@@ -1,0 +1,12 @@
+https://mobileapps.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: mobileapps.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Moved Temporarily
+< Content-Length: 0
+< Date: Fri, 06 Sep 2019 22:52:37 GMT
+< Location: https://mobile.tesla.com/AppStore/
+< Server: BigIP
+

@@ -1,0 +1,21 @@
+https://auth.tesla.com/
+
+> GET / HTTP/1.1
+> Host: auth.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Moved Temporarily
+< Strict-Transport-Security: max-age=15552000; includeSubDomains
+< X-Download-Options: noopen
+< X-Content-Type-Options: nosniff
+< Date: Fri, 06 Sep 2019 22:52:12 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 28
+< X-Dns-Prefetch-Control: off
+< X-Frame-Options: DENY
+< X-Xss-Protection: 1; mode=block
+< Location: /login
+< X-Response-Time: 0.910ms
+< Server: nginx
+
+Found. Redirecting to /login

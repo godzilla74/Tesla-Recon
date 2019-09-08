@@ -1,0 +1,22 @@
+https://auth.tesla.cn/
+
+> GET / HTTP/1.1
+> Host: auth.tesla.cn
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< X-Frame-Options: DENY
+< X-Xss-Protection: 1; mode=block
+< X-Content-Type-Options: nosniff
+< Location: /login
+< Vary: Accept
+< Date: Fri, 06 Sep 2019 22:53:00 GMT
+< Content-Type: text/plain; charset=utf-8
+< Strict-Transport-Security: max-age=15552000; includeSubDomains
+< X-Download-Options: noopen
+< Server: nginx
+< Content-Length: 28
+< X-Dns-Prefetch-Control: off
+< X-Response-Time: 2.010ms
+
+Found. Redirecting to /login

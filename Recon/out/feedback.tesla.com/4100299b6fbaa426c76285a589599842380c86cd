@@ -1,0 +1,13 @@
+http://feedback.tesla.com/
+
+> GET / HTTP/1.1
+> Host: feedback.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 307 Temporary Redirect
+< Server: AkamaiGHost
+< Content-Length: 0
+< Location: https://feedback.tesla.com/
+< Date: Fri, 06 Sep 2019 22:52:25 GMT
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

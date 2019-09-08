@@ -1,0 +1,25 @@
+https://static-assets.tesla.cn/
+
+> GET / HTTP/1.1
+> Host: static-assets.tesla.cn
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Server-Timing: cdn-cache; desc=MISS
+< Server-Timing: edge; dur=102
+< Server-Timing: origin; dur=668
+< X-Frame-Options: SAMEORIGIN
+< X-Content-Type-Options: nosniff
+< Content-Length: 40
+< Access-Control-Allow-Origin: *
+< Date: Fri, 06 Sep 2019 22:52:41 GMT
+< Strict-Transport-Security: max-age=15768000
+< Access-Control-Allow-Methods: GET
+< Store_ip: 23.67.251.216
+< Cache-Control: max-age=300
+< Expires: Fri, 06 Sep 2019 22:57:41 GMT
+< Content-Type: text/html;charset=UTF-8
+< X-Varnish-Server: varnish11a.pvg01.teslamotors.com
+< X-Cache-Hits: 1
+
+ERROR: Missing required parameter: model

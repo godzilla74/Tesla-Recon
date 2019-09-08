@@ -1,0 +1,12 @@
+https://fathership.ap.tesla.services/
+
+> GET / HTTP/1.1
+> Host: fathership.ap.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Date: Fri, 06 Sep 2019 22:52:26 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 97
+
+server date: 2019-05-06_05:56:05PM hash: ff84968ffd401558e139c65097bad4a47c0f6a51 ver: 0.008.502

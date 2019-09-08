@@ -1,0 +1,13 @@
+http://employeefeedback.tesla.com/
+
+> GET / HTTP/1.1
+> Host: employeefeedback.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 307 Temporary Redirect
+< Server: AkamaiGHost
+< Content-Length: 0
+< Location: https://employeefeedback.tesla.com/
+< Date: Fri, 06 Sep 2019 22:52:21 GMT
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

@@ -1,0 +1,24 @@
+https://partners.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: partners.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Request-Id: 46af019f-a737-403a-7bf6-48ab2849f8ac
+< Content-Length: 190
+< X-Sharepointhealthscore: 0
+< Sprequestguid: 46af019f-a737-403a-7bf6-48ab2849f8ac
+< X-Frame-Options: SAMEORIGIN
+< Sprequestduration: 19
+< Spiislatency: 0
+< X-Content-Type-Options: nosniff
+< Location: https://partners.teslamotors.com/_layouts/15/Authenticate.aspx?Source=%2F
+< Server: Microsoft-IIS/10.0
+< Set-Cookie: BIGipServer~TG-DMZ-PROD-APPS~DMZ-ORIGIN-PROD-SUP-WEB-HTTP=!n6BAJFdJL0n7QFIWnXxfgbCukfrcBXwoMob8EIOrb3wxMBvQXZOLSWSJIHb0kcHNXvMmpb2RSUu4LA==; path=/; Httponly; Secure
+< X-Ms-Invokeapp: 1; RequireReadOnly
+< Date: Fri, 06 Sep 2019 22:52:37 GMT
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://partners.teslamotors.com/_layouts/15/Authenticate.aspx?Source=%2F">here</a>.</h2>
+</body></html>

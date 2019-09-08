@@ -1,0 +1,14 @@
+https://streaming.dev.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: streaming.dev.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 19
+< X-Content-Type-Options: nosniff
+< Server: nginx
+< Date: Fri, 06 Sep 2019 22:52:36 GMT
+
+404 page not found

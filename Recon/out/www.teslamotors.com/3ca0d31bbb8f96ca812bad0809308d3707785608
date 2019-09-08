@@ -1,0 +1,18 @@
+https://www.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: www.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Server-Timing: cdn-cache; desc=REVALIDATE
+< Server-Timing: edge; dur=-23
+< Server-Timing: origin; dur=148
+< Strict-Transport-Security: max-age=15768000
+< Location: https://www.tesla.com/
+< Server: LB
+< Content-Length: 0
+< Cache-Control: max-age=60
+< Expires: Fri, 06 Sep 2019 22:53:46 GMT
+< Date: Fri, 06 Sep 2019 22:52:46 GMT
+

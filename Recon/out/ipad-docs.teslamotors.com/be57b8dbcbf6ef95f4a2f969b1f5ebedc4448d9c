@@ -1,0 +1,16 @@
+https://ipad-docs.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: ipad-docs.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Access-Control-Allow-Origin: *
+< Content-Type: text/html; charset=UTF-8
+< Server: Apache/2.2.15 (Red Hat)
+< Etag: "8000054f0000188e-0-5355aaef7a62a"
+< Accept-Ranges: none
+< Content-Length: 0
+< Date: Fri, 06 Sep 2019 22:52:33 GMT
+< Last-Modified: Thu, 16 Jun 2016 00:54:42 GMT
+

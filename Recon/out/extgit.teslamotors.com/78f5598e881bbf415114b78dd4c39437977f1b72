@@ -1,0 +1,21 @@
+https://extgit.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: extgit.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 
+< Cache-Control: no-cache
+< Cache-Control: no-store
+< Location: https://extgit.teslamotors.com/dashboard
+< Content-Language: en-US
+< Date: Fri, 06 Sep 2019 22:52:25 GMT
+< X-Asen: SEN-9326199
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Content-Length: 0
+< X-Arequestid: @89UJ2Ex952x2108081x0
+< Pragma: no-cache
+< X-Xss-Protection: 1; mode=block
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+

@@ -1,0 +1,20 @@
+https://fleetview.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: fleetview.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Date: Fri, 06 Sep 2019 22:52:26 GMT
+< Content-Length: 127
+< Set-Cookie: BIGipServerFleet_View_pool=!XFzkTDrv3WvBoxfgTfci5Alepig0kOgEzoC6jLXQKQbamwaF9y3p8y2ByNSI+0HpPWa9zNzUJlnUB/o=; path=/
+< Content-Type: text/html; charset=utf-8
+< Location: /dashboard
+< Server: Microsoft-IIS/7.5
+< Cache-Control: private
+< X-Aspnet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/dashboard">here</a>.</h2>
+</body></html>

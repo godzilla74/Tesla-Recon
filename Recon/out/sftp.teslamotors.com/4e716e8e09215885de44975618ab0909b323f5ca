@@ -1,0 +1,17 @@
+https://sftp.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: sftp.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Redirected
+< Cache-Control: private, must-revalidate
+< Date: Fri, 06 Sep 2019 22:52:34 GMT
+< Server: CerberusFTPServer/8.0
+< X-Frame-Options: SAMEORIGIN
+< Set-Cookie: cftpSID=w7LCmcOSVFE0MwN7wq7Cq0LDk8KPVsOrwpIFFcKk; Path=/; Secure; HttpOnly;
+< Content-Length: 106
+< Content-Type: text/html;charset=utf-8
+< Location: /login
+
+<!DOCTYPE html><html><head><title>302 Redirected</title></head><body><h1>302 Redirected</h1></body></html>

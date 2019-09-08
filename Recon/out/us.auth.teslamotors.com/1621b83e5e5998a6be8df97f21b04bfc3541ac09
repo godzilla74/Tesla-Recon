@@ -1,0 +1,14 @@
+https://us.auth.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: us.auth.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Server: nginx
+< Date: Fri, 06 Sep 2019 22:52:39 GMT
+< Content-Type: application/octet-stream
+< Content-Length: 98
+< Etag: "596d2c05-62"
+
+{"status": false, "message": "Internal server error", "code": 500, "data": false, "region": null}

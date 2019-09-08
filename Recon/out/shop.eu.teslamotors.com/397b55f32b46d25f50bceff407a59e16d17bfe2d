@@ -1,0 +1,15 @@
+http://shop.eu.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: shop.eu.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Accept-Ranges: none
+< Content-Type: text/html
+< Location: https://shop.tesla.com/nl/en.html?redirect=no
+< Date: Fri, 06 Sep 2019 22:52:33 GMT
+< Server: UltraDNS Client Redirection Server
+< Last-Modified: Fri, 06 Sep 2019 22:52:33 GMT
+
+

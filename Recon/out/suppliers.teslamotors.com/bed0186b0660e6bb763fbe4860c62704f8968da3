@@ -1,0 +1,21 @@
+https://suppliers.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: suppliers.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 302 Found
+< Location: https://suppliers.teslamotors.com/_layouts/15/Authenticate.aspx?Source=%2F
+< Server: Microsoft-IIS/10.0
+< X-Sharepointhealthscore: 0
+< Sprequestguid: 47af019f-071d-403a-a89f-1d7fb448ead4
+< Date: Fri, 06 Sep 2019 22:52:41 GMT
+< Content-Length: 191
+< Request-Id: 47af019f-071d-403a-a89f-1d7fb448ead4
+< X-Content-Type-Options: nosniff
+< X-Ms-Invokeapp: 1; RequireReadOnly
+< Set-Cookie: BIGipServer~TG-DMZ-PROD-APPS~DMZ-ORIGIN-PROD-SUP-WEB-HTTP=!vLw1DXe/GAe0azkWnXxfgbCukfrcBZyyUslxWcFjMfk2Y0g8FCKwx2es3+jSTv1IBfvxPR1ZpxITc4o=; path=/; Httponly; Secure
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://suppliers.teslamotors.com/_layouts/15/Authenticate.aspx?Source=%2F">here</a>.</h2>
+</body></html>

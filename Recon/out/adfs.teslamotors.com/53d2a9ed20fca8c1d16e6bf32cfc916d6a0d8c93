@@ -1,0 +1,49 @@
+http://adfs.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: adfs.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Last-Modified: Tue, 23 Oct 2012 18:12:26 GMT
+< Etag: "c2233cf549b1cd1:0"
+< Server: Microsoft-IIS/7.5
+< X-Frame-Options: SAMEORIGIN
+< Content-Length: 689
+< Content-Type: text/html
+< Accept-Ranges: bytes
+< X-Powered-By: ASP.NET
+< Date: Fri, 06 Sep 2019 22:52:19 GMT
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>

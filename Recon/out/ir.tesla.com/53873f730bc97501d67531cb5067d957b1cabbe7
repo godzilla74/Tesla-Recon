@@ -1,0 +1,14 @@
+http://ir.tesla.com/
+
+> GET / HTTP/1.1
+> Host: ir.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Expires: Fri, 06 Sep 2019 22:52:27 GMT
+< Date: Fri, 06 Sep 2019 22:52:27 GMT
+< Server: AkamaiGHost
+< Content-Length: 0
+< Location: https://ir.tesla.com/
+< Cache-Control: max-age=0
+

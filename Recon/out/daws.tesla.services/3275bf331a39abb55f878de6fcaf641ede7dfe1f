@@ -1,0 +1,17 @@
+https://daws.tesla.services/
+
+> GET / HTTP/1.1
+> Host: daws.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: application/xml
+< Date: Fri, 06 Sep 2019 22:52:26 GMT
+< Server: AmazonS3
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Pop: EWR53-C1
+< Via: 1.1 7e35b683005d768b7c720f84f8a9e476.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: 2JLvAUtdYN__gQ92Rt0mFQeSZz0uqOFQpgMihHFb1I_qPdHe9Z0h_w==
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>8E4666D511EC3F4E</RequestId><HostId>SwOTiqEFbN2+RQm9V9syIDbBn/HLFfhH9yiuo2zB0Q8jNB2QXeAeeTenHPEA19Q11qWV96GD970=</HostId></Error>

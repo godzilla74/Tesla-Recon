@@ -1,0 +1,901 @@
+https://ir.tesla.com/
+
+> GET / HTTP/1.1
+> Host: ir.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Age: 186
+< X-Content-Type-Options: nosniff
+< X-Generator: Drupal 8 (https://www.drupal.org)
+< X-Ua-Compatible: IE=edge
+< Set-Cookie: DrupalVisitorMobile=0; path=/
+< From-Origin: same
+< X-Ah-Environment: 13live
+< X-Xss-Protection: 1; mode=block
+< Cache-Control: public, max-age=0, s-maxage=1800
+< Device: desktop
+< Last-Modified: Fri, 06 Sep 2019 22:49:16 GMT
+< X-Request-Id: v-8dbf2aba-d0f8-11e9-b3af-e366fc15693b
+< Date: Fri, 06 Sep 2019 22:52:32 GMT
+< Expires: Fri, 06 Sep 2019 22:52:32 GMT
+< Accept-Ranges: bytes
+< Content-Language: en
+< Etag: "1567810156"
+< X-Webkit-Csp: report-uri //report-csp-violation
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Security-Policy: report-uri //report-csp-violation
+< X-Frame-Options: SAMEORIGIN
+< Strict-Transport-Security: max-age=15768000 ; preload
+< X-Drupal-Dynamic-Cache: UNCACHEABLE
+< Content-Security-Policy: report-uri //report-csp-violation
+< Link: <http://ir.tesla.com/>; rel="shortlink", <http://ir.tesla.com/>; rel="canonical"
+< Link: <https://ir.tesla.com/investor-relations>; rel="alternate"; hreflang="en"
+< Link: </investor-relations>; rel="revision"
+< Server: nginx
+< X-Cache-Hits: 7
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="title" content="Investors Overview | Tesla, Inc." />
+<link rel="shortlink" href="http://ir.tesla.com/" />
+<meta property="og:site_name" content="Tesla, Inc." />
+<link rel="canonical" href="http://ir.tesla.com/" />
+<meta property="og:type" content="website" />
+<meta name="description" content="The Investor Relations website contains information about Tesla, Inc.&#039;s business for stockholders, potential investors, and financial analysts." />
+<meta property="og:url" content="https://ir.tesla.com/investor-relations" />
+<meta property="og:title" content="Investors Overview | Tesla, Inc." />
+<meta name="referrer" content="no-referrer" />
+<meta property="og:description" content="The Investor Relations website contains information about Tesla, Inc.&#039;s business for stockholders, potential investors, and financial analysts." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/g/files/knoqqb19921/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://ir.tesla.com/investor-relations" />
+<link rel="revision" href="/investor-relations" />
+
+    <title>Investors Overview | Tesla, Inc.</title>
+    <link rel="stylesheet" href="/sites/g/files/knoqqb19921/files/css/css_j1pcPbu9r_Fuc41-BM4-ci2rvgfAYq1x2CNu3xBhWFs.css?pvs4lz" media="all" />
+<link rel="stylesheet" href="/sites/g/files/knoqqb19921/files/css/css_WsZQs6e-L4gCb00MD8XTfyShPzncP3jnSzJPL5Hm04Y.css?pvs4lz" media="all" />
+<link rel="stylesheet" href="/sites/g/files/knoqqb19921/files/css/css_7TP1t1E2hyNPex9qWkON_VckXL1cUUT4OEH90GyPDSk.css?pvs4lz" media="screen" />
+<link rel="stylesheet" href="/sites/g/files/knoqqb19921/files/css/css_ZYD6O9lgY3hHexGbfibAs5WgFAq4LqTE7tUPmzQU0Nc.css?pvs4lz" media="all" />
+<link rel="stylesheet" href="/sites/g/files/knoqqb19921/files/css/css_uR7CBnjEs5VZNOTbN5egaIVEsuJ_uLDLaCxQpDsgq_0.css?pvs4lz" media="print" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/g/files/knoqqb19921/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+    
+  </head>
+  <body class="body-sidebars-last nir-node nir-node--type-nir-landing-page nir-node--5806 page-node-5806 path-frontpage page-node-type-nir-landing-page">
+    <div id="skip">
+      <a class="visually-hidden focusable skip-link" href="#main-menu">
+        Skip to main navigation
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+ 
+
+
+<div>
+    <div id="page">
+        <div class="content-constrain">
+            <div class="outer">
+                <div class="panel-display offsite">
+                    <div class="panel-pane pane-panels-mini pane-header">
+                        <div class="pane-content">
+                            <header class="main panel-panel">
+                                <div class="container">
+                                    <div id="logo-link" class="panel-panel">
+                                        <div class="panel-pane pane-custom pane-5">
+                                            <div class="pane-content">
+                                                <a href="http://www.tesla.com" class="logo" title="Tesla">Tesla</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mobile_wrapper">
+                                        <div class="mobile_block">
+                                            <div id="sub-nav" class="panel-panel">
+                                                <nav class="nav-menu">
+                                                    <div class="panel-pane pane-menu-tree pane-menu-topright-nav">
+                                                        <div class="pane-content">
+                                                            <nav>
+                                                                <ol class="nav-block">
+                                                                                                                                        <li class="nav-item"><a href="http://shop.teslamotors.com/?_ga=1.82277718.1776167217.1485984806" class="nav-link">Shop</a></li>
+                                                                    <li class="nav-item"><a href="https://auth.tesla.com/login" class="nav-link">Sign In</a></li>
+                                                                </ol>
+                                                            </nav>
+                                                        </div>
+                                                    </div>
+                                                </nav>
+                                            </div>
+                                            <div id="main-nav" class="panel-panel" style="height:auto;">
+                                                <nav class="nav-menu">
+                                                    <div class="panel-pane pane-block pane-menu-block-1">
+                                                        <div class="pane-content">
+                                                            <nav style="float:left;">
+                                                                <ol class="nav-block">
+                                                                    <li class="first leaf menu-mlid-891 nav-item"><a href="https://www.tesla.com/models" class="nav-link">Model S</a></li>
+                                                                    <li class="leaf menu-mlid-26621 nav-item"><a href="https://www.tesla.com/model3" class="nav-link">Model 3</a></li>
+                                                                    <li class="leaf menu-mlid-892 nav-item"><a href="https://www.tesla.com/modelx" class="nav-link">Model X</a></li>
+                                                                    <li class="leaf menu-mlid-8929 nav-item"><a href="https://www.tesla.com/modely" class="nav-link">Model Y</a></li>
+                                                                    <li class="leaf menu-mlid-8929 nav-item"><a href="https://www.tesla.com/roadster" class="nav-link">Roadster</a></li>
+                                                                    <li class="last leaf menu-mlid-26642 main-nav-energy nav-item"><a href="https://www.tesla.com/energy" class="nav-link">Energy</a></li>
+                                                                </ol>
+                                                            </nav>
+                                                        </div>
+                                                    </div>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a id="hamburger" href="#" class="mobileMenu-processed">Mobile Menu</a>
+                                </div>
+                            </header>
+                        </div>
+                    </div>
+                    <main role="main">
+                        <div class="panel-panel">
+                            <div class="panel-pane pane-page-content">
+                                <div class="pane-content">
+                                    <div class="panel-display">
+                                        <header id="second_header">
+                      <div class="container">
+                        <div class="wrapper">
+                          <div class="panel-panel" id="page_title">
+                            <div class="panel-pane pane-custom pane-2">
+                              <div class="pane-content">
+                                 <h1 id="main-heading"> </h1>
+                              </div>
+                            </div>
+                          </div>
+                          
+                        </div>
+                      </div>
+                    </header>
+                                       
+                                        <div class="container ">
+                                            <div class="left-column">
+                                                <section id="article_content" class="panel-panel">
+                                                    
+                                                    <div class="panel-pane pane-node-content">
+                                                        <div class="pane-content">
+                                                            <h2 class="page-title">
+                                                            Investors Overview</h2>
+                                                            <div id="ndq-content" class="ndq-releases ">
+                                                                  <div class="region region-content">
+    <div id="block-nir-pid1827-websitenoticeblock" class="block--website-notice-block block--website-notice-block--5806 block--content--website-notice-block block--content--website-notice-block--5806 block--bb0d01f8-1fcd-4a04-b0f3-38d0dcf475fb block--bb0d01f8-1fcd-4a04-b0f3-38d0dcf475fb--5806 block block-nir-website-notices block-website-notice-block">
+  
+    
+      
+  </div>
+
+<div id="block-nir-pid1827-content" class="block--system-main-block block--system-main-block--5806 block--content--system-main-block block--content--system-main-block--5806 block--db82d6a0-2e77-42c7-b06e-961b073c01a5 block--db82d6a0-2e77-42c7-b06e-961b073c01a5--5806 block block-system block-system-main-block">
+  
+    
+      <article class="node node--type-nir_landing_page node--view-mode-full clearfix">
+  
+      <h1>
+              Investors Overview
+          </h1>
+    
+
+  <div>
+    
+<div class="panel-display sutro-double clearfix " >
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 radix-layouts-header panel-panel">
+        <div class="panel-panel-inner">
+          <div class="block-region-header"><div class="block-content--nir-lp-block block-content--nir-lp-block--18321 block--block-contentbbb29e8d-3224-4986-89a9-68b5c4b8388e block--block-contentbbb29e8d-3224-4986-89a9-68b5c4b8388e--5806 block--header--block-content--bbb29e8d-3224-4986-89a9-68b5c4b8388e block--header--block-content--bbb29e8d-3224-4986-89a9-68b5c4b8388e--5806 block--915ce22a-eb85-4a5b-a54b-8c831d5bba42 block--915ce22a-eb85-4a5b-a54b-8c831d5bba42--5806 block block-block-content block-block-contentbbb29e8d-3224-4986-89a9-68b5c4b8388e">
+  
+    
+      
+            <div class="field field--name-field-nir-lp-block-node field--type-entity-reference field--label-hidden field__item">  
+            <div class="clearfix text-formatted field field--name-field-nir-lp-block-body field--type-text-long field--label-hidden field__item"><h3><span style="color: rgb(204, 0, 0);">Q2 2019 Reporting Date: July 24, 2019</span></h3>
+</div>
+      
+</div>
+      
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 radix-layouts-column1 panel-panel">
+        <div class="panel-panel-inner">
+          <div class="block-region-column1"><div data-storage-id="node:5806:full:31186" data-uuid="ef6147b4-5c48-4bb5-a249-efadc198f426" class="block--market-data-block__stock-quote block--market-data-block__stock-quote--5806 block--column1--market-data-block__stock-quote block--column1--market-data-block__stock-quote--5806 block--ef6147b4-5c48-4bb5-a249-efadc198f426 block--ef6147b4-5c48-4bb5-a249-efadc198f426--5806 block block-nir-market-data-block block-market-data-block__stock-quote">
+  
+    
+      <div class='quote-wrap user-toggle-off stock-quote__featured'>
+  <div class="quote-wrapper">
+                            <div class="stock-quote" data-exchange="">
+      
+
+		<div class="ndq-stock">
+		   <div class="newStockQuote">
+
+			  <div id="ndq-inc-stock-quote-pie">
+				 <div class="ndq-inc-stock-quote-title">
+				  				  </div>
+				 <div class="ndq-vSpace"></div>
+				 <div class="ndq-stock-quote-price-mini">
+					<h3>
+					 					 </h3>
+					<div class="ndq-inc-stock-quote-date">
+						 					   | 
+						 					</div>
+				 </div>
+				 <div class="chart easyPieChart" data-percent="100" style="width: 100px; height: 100px;">
+					<div class="ndq-stock-quote-change-mini ">
+					 					 </div>
+					 
+					<canvas width="100" height="100"></canvas>
+				 </div>
+				 <br clear="left">
+				 <div class="ndq-inc-stock-quote-other">
+					<strong>Day High:</strong> 
+					  					<br>
+					<strong>Day Low:</strong> &nbsp;
+					  					<br>
+					<strong>Volume:</strong> &nbsp;&nbsp;&nbsp;
+					 				 </div>
+
+			  </div>
+
+		   </div>
+		</div>
+      
+          </div>
+    </div>
+</div>
+
+  </div>
+<div class="block--attribution-block__stock-info-attribution__thomson-reuters block--attribution-block__stock-info-attribution__thomson-reuters--5806 block--column1--attribution-block__stock-info-attribution__thomson-reuters block--column1--attribution-block__stock-info-attribution__thomson-reuters--5806 block--2f58128a-1a49-4441-8f00-f948675b17d4 block--2f58128a-1a49-4441-8f00-f948675b17d4--5806 block block-nir-attribution-block block-attribution-block__stock-info-attribution__thomson-reuters">
+  
+    
+      <p>
+  Copyright West LLC. Minimum 15 minutes delayed.</p>
+
+  </div>
+</div>
+        </div>
+      </div>
+      <div class="col-md-6 radix-layouts-column2 panel-panel">
+        <div class="panel-panel-inner">
+          <div class="block-region-column2"><div class="block-content--nir-lp-block block-content--nir-lp-block--18311 block--block-contente6dd1a28-060c-4ade-a984-69fec1857305 block--block-contente6dd1a28-060c-4ade-a984-69fec1857305--5806 block--column2--block-content--e6dd1a28-060c-4ade-a984-69fec1857305 block--column2--block-content--e6dd1a28-060c-4ade-a984-69fec1857305--5806 block--e0ac7a45-1b9a-4991-a3fe-d5de907fe575 block--e0ac7a45-1b9a-4991-a3fe-d5de907fe575--5806 block block-block-content block-block-contente6dd1a28-060c-4ade-a984-69fec1857305">
+  
+    
+      
+            <div class="field field--name-field-nir-lp-block-node field--type-entity-reference field--label-hidden field__item">  
+            <div class="clearfix text-formatted field field--name-field-nir-lp-block-body field--type-text-long field--label-hidden field__item"><div id="ndq-tabs">
+<ul><li class="one"><a href="#ndq-tab-1">1 yr.</a></li>
+	<li class="six"><a href="#ndq-tab-2">6 mo.</a></li>
+	<li class="three"><a href="#ndq-tab-3">3 mo.</a></li>
+	<li class="intra"><a href="#ndq-tab-4">Intra</a></li>
+</ul></div>
+</div>
+      
+</div>
+      
+  </div>
+<div class="block--nir-stock-chart block--nir-stock-chart--5806 block--column2--nir-stock-chart block--column2--nir-stock-chart--5806 block--5e5178b8-ee6f-4442-8cf0-85c042b16656 block--5e5178b8-ee6f-4442-8cf0-85c042b16656--5806 block block-nir-stock-chart">
+  
+    
+      
+<img src="https://api.nasdaqomx.wallst.com/api/chart?display=mountain&symbol=TSLA&scale=linear&duration=1yr&frequency=1dy&gridLine=b&bgColor=ffffff&lineColor=ff0000&fillcolor=ff0000|ff0000&width=380&height=180&&amp;volume=0" width="380" height="180" ></img>
+
+  </div>
+<div class="block--nir-stock-chart block--nir-stock-chart--5806 block--column2--nir-stock-chart block--column2--nir-stock-chart--5806 block--48e0c7a0-ca1b-45b2-ad3a-4e9580b61452 block--48e0c7a0-ca1b-45b2-ad3a-4e9580b61452--5806 block block-nir-stock-chart">
+  
+    
+      
+<img src="https://api.nasdaqomx.wallst.com/api/chart?display=mountain&symbol=TSLA&scale=linear&duration=6mo&frequency=1dy&gridLine=b&bgColor=ffffff&lineColor=ff0000&fillcolor=ff0000|ff0000&width=380&height=180&volume=0" width="380" height="180" ></img>
+
+  </div>
+<div class="block--nir-stock-chart block--nir-stock-chart--5806 block--column2--nir-stock-chart block--column2--nir-stock-chart--5806 block--8f3a8d65-a2cf-4899-a9ab-722e6bc35ffc block--8f3a8d65-a2cf-4899-a9ab-722e6bc35ffc--5806 block block-nir-stock-chart">
+  
+    
+      
+<img src="https://api.nasdaqomx.wallst.com/api/chart?display=mountain&symbol=TSLA&scale=linear&duration=3mo&frequency=1dy&gridLine=b&bgColor=ffffff&lineColor=ff0000&fillcolor=ff0000|ff0000&width=380&height=180&volume=0" width="380" height="180" ></img>
+
+  </div>
+<div class="block--nir-stock-chart block--nir-stock-chart--5806 block--column2--nir-stock-chart block--column2--nir-stock-chart--5806 block--af78ae82-f43f-498d-bb14-54349fc4a55c block--af78ae82-f43f-498d-bb14-54349fc4a55c--5806 block block-nir-stock-chart">
+  
+    
+      
+<img src="https://api.nasdaqomx.wallst.com/api/chart?display=mountain&symbol=TSLA&scale=linear&duration=1dy&frequency=15min&gridLine=b&bgColor=ffffff&lineColor=ff0000&fillcolor=ff0000|ff0000&width=380&height=180&volume=0" width="380" height="180" ></img>
+
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12 radix-layouts-middle panel-panel">
+        <div class="panel-panel-inner">
+          <div class="block-region-middle"><div class="block-content--nir-lp-block block-content--nir-lp-block--18316 block--block-contentd3fb85f7-602b-4680-acbd-eb150f6d565e block--block-contentd3fb85f7-602b-4680-acbd-eb150f6d565e--5806 block--middle--block-content--d3fb85f7-602b-4680-acbd-eb150f6d565e block--middle--block-content--d3fb85f7-602b-4680-acbd-eb150f6d565e--5806 block--91b4a727-3218-4de3-a4df-b4ff3907b2ab block--91b4a727-3218-4de3-a4df-b4ff3907b2ab--5806 block block-block-content block-block-contentd3fb85f7-602b-4680-acbd-eb150f6d565e">
+  
+      <h2>Company Description</h2>
+    
+      
+            <div class="field field--name-field-nir-lp-block-node field--type-entity-reference field--label-hidden field__item">  
+            <div class="clearfix text-formatted field field--name-field-nir-lp-block-body field--type-text-long field--label-hidden field__item"><div id="wshLessContent">Tesla’s mission is to accelerate the world’s transition to sustainable energy. Since our founding in 2003, Tesla has broken new barriers in developing high-performance automobiles that are not only the world’s best and highest-selling pure electric vehicles—with long range and absolutely no tailpipe emissions—but also the safest, highest-rated cars on the road in the world. Beyond the flagship Model S sedan and the falcon-winged door Model X sports utility vehicle, we also offer a smaller, simpler and more affordable mid-sized sedan, Model 3, which we expect will truly propel electric vehicles into the mainstream.<br /><br />
+In addition, with the opening of the Gigafactory and the acquisition of SolarCity, Tesla now offers a full suite of energy products that incorporates solar, storage, and grid services. As the world’s only fully integrated sustainable energy company, Tesla is at the vanguard of the world’s inevitable shift towards a sustainable energy platform.</div>
+</div>
+      
+</div>
+      
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 radix-layouts-secondcolumn1 panel-panel">
+        <div class="panel-panel-inner">
+          
+        </div>
+      </div>
+      <div class="col-md-6 radix-layouts-secondcolumn2 panel-panel">
+        <div class="panel-panel-inner">
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12 radix-layouts-footer panel-panel">
+        <div class="panel-panel-inner">
+          <div class="block-region-footer"><div class="block--events-home block--nir-events__widget block--nir-events__widget--5806 block--footer--nir-events__widget block--footer--nir-events__widget--5806 block--ba99447b-53b2-4e5f-b4b3-36c8a52be238 block--ba99447b-53b2-4e5f-b4b3-36c8a52be238--5806 block block-nir-events block-nir-events__widget">
+  
+    
+
+      <table class="packages-table">
+    <tbody>
+    <tr>
+<div class="nir-widget">
+      <h2 class="nir-widget--label">
+      Events &amp; Presentations
+    </h2>
+      <div class="nir-widget--content">
+                <div class="nir-widget--list">
+                            
+<article role="article" class="clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list">
+  <td class="battery-option">
+      <ol class="package-details">
+  
+
+              <li class="package-detail">
+          <div class="nir-widget--field nir-widget--event--date">
+              <strong>  
+
+      
+      
+           <span class="homedate"> Jul 24, 2019</span> <br> 3:30 PM PDT
+       </strong>
+          </div>
+          </li>
+    
+          <li class="package-detail">
+  
+            <div class="nir-widget--field nir-widgets--event--title">
+              
+<div class="field-nir-event-title">
+      <div class="field__item"><a href="/events/event-details/tesla-inc-q2-2019-financial-results-and-qa-webcast" hreflang="en">Tesla, Inc. Q2 2019 Financial Results and Q&amp;A Webcast</a></div>
+  </div>
+            </div>
+
+  
+          <div class="nir-widget--field nir-widget--event--support-materials">
+
+          
+          
+<div class="field-nir-event-assets-ref">
+      <div class="nir-widgets--file-list--hide-filesize field__items">
+              <div>
+                <div>
+<article role="article" class="node node--nir-asset--asset-link node--type-nir-asset node--view-mode-asset-link">
+  <div class="node__content">
+    
+      <div class="field field--name-field-nir-document field--type-file field--label-hidden field__items">
+              <div class="field__item">
+            <div class="file-link">
+  <span class="file file--mime-application-pdf file--application-pdf"> <a href="https://ir.tesla.com/static-files/1e70a30c-20a7-48b3-a1f6-696a7c517959" type="application/pdf; length=365668" title="Q2&#039;19 Update Letter.pdf">Q2'19 Update Letter</a></span><span class="filesize"> 365.6 KB</span>
+</div>
+
+        </div>
+          </div>
+  
+  </div>
+</article>
+</div>
+                        </div>
+          </div>
+  </div>
+      </div>
+              </li>
+
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+        </ol>
+  </td>
+</article>
+
+<article role="article" class="clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list">
+  <td class="battery-option">
+      <ol class="package-details">
+  
+
+              <li class="package-detail">
+          <div class="nir-widget--field nir-widget--event--date">
+              <strong>  
+
+      
+      
+           <span class="homedate"> Jun 11, 2019</span> <br> 2:30 PM PDT
+       </strong>
+          </div>
+          </li>
+    
+          <li class="package-detail">
+  
+            <div class="nir-widget--field nir-widgets--event--title">
+              
+<div class="field-nir-event-title">
+      <div class="field__item"><a href="/events/event-details/tesla-inc-2019-annual-shareholder-meeting" hreflang="en">Tesla, Inc. 2019 Annual Shareholder Meeting</a></div>
+  </div>
+            </div>
+
+  
+          <div class="nir-widget--field nir-widget--event--support-materials">
+
+          
+          
+<div class="field-nir-event-assets-ref">
+      <div class="nir-widgets--file-list--hide-filesize field__items">
+              <div>
+                <div>
+<article role="article" class="node node--nir-asset--asset-link node--type-nir-asset node--view-mode-asset-link">
+  <div class="node__content">
+    
+      <div class="field field--name-field-nir-document field--type-file field--label-hidden field__items">
+              <div class="field__item">
+            <div class="file-link">
+  <span class="file file--mime-application-pdf file--application-pdf"> <a href="https://ir.tesla.com/static-files/f5a06cd9-caf8-4c13-8630-0fddf874838f" type="application/pdf; length=9567334" title="2019 Annual Shareholder Meeting Presentation.pdf">View Presentation</a></span><span class="filesize"> 9.5 MB</span>
+</div>
+
+        </div>
+          </div>
+  
+  </div>
+</article>
+</div>
+                        </div>
+          </div>
+  </div>
+      </div>
+              </li>
+
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+        </ol>
+  </td>
+</article>
+
+<article role="article" class="clearfix node node--nir-event--nir-widget-list node--type-nir-event node--view-mode-nir-widget-list">
+  <td class="battery-option">
+      <ol class="package-details">
+  
+
+              <li class="package-detail">
+          <div class="nir-widget--field nir-widget--event--date">
+              <strong>  
+
+      
+      
+           <span class="homedate"> Apr 24, 2019</span> <br> 2:30 PM PDT
+       </strong>
+          </div>
+          </li>
+    
+          <li class="package-detail">
+  
+            <div class="nir-widget--field nir-widgets--event--title">
+              
+<div class="field-nir-event-title">
+      <div class="field__item"><a href="/events/event-details/tesla-inc-q1-2019-financial-results-and-qa-webcast" hreflang="en">Tesla, Inc. Q1 2019 Financial Results and Q&amp;A Webcast</a></div>
+  </div>
+            </div>
+
+  
+          <div class="nir-widget--field nir-widget--event--support-materials">
+
+          
+          
+<div class="field-nir-event-assets-ref">
+      <div class="nir-widgets--file-list--hide-filesize field__items">
+              <div>
+                <div>
+<article role="article" class="node node--nir-asset--asset-link node--type-nir-asset node--view-mode-asset-link">
+  <div class="node__content">
+    
+      <div class="field field--name-field-nir-document field--type-file field--label-hidden field__items">
+              <div class="field__item">
+            <div class="file-link">
+  <span class="file file--mime-application-pdf file--application-pdf"> <a href="https://ir.tesla.com/static-files/b2218d34-fbee-4f1f-ac95-050eb29dd42f" type="application/pdf; length=454728" title="Tesla Q1 2019 Letter.pdf">Q1'19 Update Letter</a></span><span class="filesize"> 454.7 KB</span>
+</div>
+
+        </div>
+          </div>
+  
+  </div>
+</article>
+</div>
+                        </div>
+          </div>
+  </div>
+      </div>
+              </li>
+
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+        </ol>
+  </td>
+</article>
+
+                    </div>
+        <div class="nir-widget--pager">
+            
+        </div>
+        <div class="nir-widget--total-results">
+            
+        </div>
+    </div>
+</div>
+    <tr>
+    </tbody>
+</table>
+  
+</div>
+<div id="ndq-viewAll"><a class="btn-primary" href="/events-and-presentations">
+    View all events &amp; presentations</a></div>
+<div class="block--news-home block--nir-news__widget block--nir-news__widget--5806 block--footer--nir-news__widget block--footer--nir-news__widget--5806 block--661b7ba5-97bc-4068-8d76-51908c7fac15 block--661b7ba5-97bc-4068-8d76-51908c7fac15--5806 block block-nir-news block-nir-news__widget">
+  
+    
+      
+
+    
+
+<div class="nir-widget">
+      <h2 class="nir-widget--label">
+      Recent Releases
+    </h2>
+    <div class="nir-widget--content">
+        <div class="nir-widget--list">
+		<div id="teamSlider">
+			
+				<ul class="slides" style=" ">
+				  					
+
+<div class="col-md-4 wp5 animated fadeInUp wrap-to-two">
+	<article role="article" class="clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted">
+		
+	  
+	  		<div class="nir-widget--field nir-widget--news--date-time">
+		  <h4>Jul 24, 2019</h4>
+		</div>
+	  
+	  				  <div class="nir-widget--field nir-widget--news--headline">
+			  <a href="/news-releases/news-release-details/tesla-releases-second-quarter-2019-financial-results" hreflang="en">Tesla Releases Second Quarter 2019 Financial Results</a>
+		  </div>
+			  
+	  
+	  
+	  
+	  
+	  
+	  	   
+	  
+	</article>
+   </div>
+
+
+
+<div class="col-md-4 wp5 animated fadeInUp wrap-to-two">
+	<article role="article" class="clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted">
+		
+	  
+	  		<div class="nir-widget--field nir-widget--news--date-time">
+		  <h4>Jul 18, 2019</h4>
+		</div>
+	  
+	  				  <div class="nir-widget--field nir-widget--news--headline">
+			  <a href="/news-releases/news-release-details/update-tesla-announces-date-second-quarter-2019-financial" hreflang="en">UPDATE: Tesla Announces Date for Second Quarter 2019 Financial Results and Webcast</a>
+		  </div>
+			  
+	  
+	  
+	  
+	  
+	  
+	  	   
+	  
+	</article>
+   </div>
+
+
+
+<div class="col-md-4 wp5 animated fadeInUp wrap-to-two">
+	<article role="article" class="clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted">
+		
+	  
+	  		<div class="nir-widget--field nir-widget--news--date-time">
+		  <h4>Jul 11, 2019</h4>
+		</div>
+	  
+	  				  <div class="nir-widget--field nir-widget--news--headline">
+			  <a href="/news-releases/news-release-details/tesla-announces-date-second-quarter-2019-financial-results-and" hreflang="en">Tesla Announces Date for Second Quarter 2019 Financial Results and Webcast</a>
+		  </div>
+			  
+	  
+	  
+	  
+	  
+	  
+	  	   
+	  
+	</article>
+   </div>
+
+
+
+<div class="col-md-4 wp5 animated fadeInUp wrap-to-two">
+	<article role="article" class="clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list node--promoted">
+		
+	  
+	  		<div class="nir-widget--field nir-widget--news--date-time">
+		  <h4>Jul 02, 2019</h4>
+		</div>
+	  
+	  				  <div class="nir-widget--field nir-widget--news--headline">
+			  <a href="/news-releases/news-release-details/tesla-q2-2019-vehicle-production-deliveries" hreflang="en">Tesla Q2 2019 Vehicle Production &amp; Deliveries</a>
+		  </div>
+			  
+	  
+	  
+	  
+	  
+	  
+	  	   
+	  
+	</article>
+   </div>
+
+
+				  				  </ul>
+			
+		</div>
+    </div>
+    <div class="nir-widget--pager">
+      
+    </div>
+    <div class="nir-widget--total-results">
+      
+    </div>
+  </div>
+</div>
+
+        
+
+  </div>
+<div id="ndq-viewAll"><a class="btn-primary" href="/press-releases">
+    View all investor communication</a></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.sutro-double -->
+
+  </div>
+</article>
+
+  </div>
+
+  </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                            </div>
+                                            <div class="right-column panel-panel sidebar">
+                                                <div class="wrapper">
+                                                    <div class="panel-pane pane-views pane-related-articles">
+                                                        <div class="pane-content">
+                                                            <div class="view view-related-articles view-id-related_articles view-display-id-block_2 view-dom-id-a5cd1e55f27cde3e6418f8b75bd389fc">
+                                                                  <div class="region region-sidebar-last">
+    
+
+<nav role="navigation" aria-labelledby="block-nir-pid1827-investorrelations-menu" id="block-nir-pid1827-investorrelations" class="block--system-menu-blockir block--system-menu-blockir--5806 block--sidebar-last--system-menu-block--ir block--sidebar-last--system-menu-block--ir--5806 block--1449e653-f7ff-40cb-ab28-fd95a876167b block--1449e653-f7ff-40cb-ab28-fd95a876167b--5806 block block-menu navigation block-system-menublock menu--ir">
+                        
+    <h2 class="visually-hidden" id="block-nir-pid1827-investorrelations-menu">Investor Relations</h2>
+    
+
+                              <div  data-block-uuid="1449e653-f7ff-40cb-ab28-fd95a876167b" class="menu side-menu view-content">
+                  <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/" class="post-link ">Investors Overview</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/press-releases" class="post-link ">Investor Communication</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/events-and-presentations" class="post-link ">Events &amp; Presentations</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/financial-information/quarterly-results" class="post-link ">Financials &amp; Accounting</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/sec-filings" class="post-link ">SEC Filings</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/corporate-governance/highlights" class="post-link ">Corporate Governance</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/irs-form-8937" class="post-link ">IRS Form 8937</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/stock-information" class="post-link ">Stock Information</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/investor-faqs" class="post-link ">Investor FAQs</a></h3>
+                  </div>
+              <div class="views-row views-row-1 views-row-odd views-row-first post">
+          <h3 class="post-header"><a href="/contact-us" class="post-link ">Contact Investor Relations</a></h3>
+                  </div>
+          </div>
+  
+      </div>
+    </nav>
+
+  </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+              <div class="region region-footer">
+    
+
+<nav role="navigation" aria-labelledby="block-nir-pid1827-shareholdertools-menu" id="block-nir-pid1827-shareholdertools" class="block--system-menu-blockshareholder-tools block--system-menu-blockshareholder-tools--5816 block--footer--system-menu-block--shareholder-tools block--footer--system-menu-block--shareholder-tools--5816 block--1e313029-a2af-4606-9195-221a477aa522 block--1e313029-a2af-4606-9195-221a477aa522--5816 block block-menu navigation block-system-menublock menu--shareholder-tools">
+                        
+    <h2 class="visually-hidden" id="block-nir-pid1827-shareholdertools-menu">Shareholder Tools</h2>
+    
+
+                     
+        <ul id="ndq-tools">
+
+              <li class="side-menu__item">
+                      <a alt="Printed Materials" class="ndq-noTxtDec" href="/printed-materials" title="Printed Materials">
+            <div class="ndqicon-printed-materials-1" href="/printed-materials"><strong style="opacity: 0;">Printed Materials</strong></div>
+            <h3>Printed Materials</h3>
+          </a>
+        </li>
+              <li class="side-menu__item">
+                      <a alt="Email Alerts" class="ndq-noTxtDec" href="/email-alerts" title="Email Alerts">
+            <div class="ndqicon-alerts" href="/email-alerts"><strong style="opacity: 0;">Email Alerts</strong></div>
+            <h3>Email Alerts</h3>
+          </a>
+        </li>
+              <li class="side-menu__item">
+                      <a alt="Downloads" class="ndq-noTxtDec" href="/download-library" title="Downloads">
+            <div class="ndqicon-downloads-3" href="/download-library"><strong style="opacity: 0;">Downloads</strong></div>
+            <h3>Downloads</h3>
+          </a>
+        </li>
+              <li class="side-menu__item">
+                      <a alt="RSS" class="ndq-noTxtDec" href="/rss-news-feeds" title="RSS">
+            <div class="ndqicon-rss" href="/rss-news-feeds"><strong style="opacity: 0;">RSS</strong></div>
+            <h3>RSS</h3>
+          </a>
+        </li>
+              <li class="side-menu__item">
+                      <a alt="Print" class="ndq-noTxtDec" href="" title="Print">
+            <div class="ndqicon-print" href=""><strong style="opacity: 0;">Print</strong></div>
+            <h3>Print</h3>
+          </a>
+        </li>
+              <li class="side-menu__item">
+                      <a alt="Search" class="ndq-noTxtDec" href="/search" title="Search">
+            <div class="ndqicon-search" href="/search"><strong style="opacity: 0;">Search</strong></div>
+            <h3>Search</h3>
+          </a>
+        </li>
+          </ul>
+  
+
+
+    </nav>
+
+  </div>
+
+            <div class="panel-pane pane-panels-mini pane-skinny-footer">
+                <div class="pane-content">
+                    <footer class="main">
+                        <div class="container">
+                            <div class="wrapper">
+                                <div class="footer-copy">
+                                    <p class="colophon"><a href="https://www.tesla.com/about">Tesla © 2019 </a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End SiteCatalyst code version: H.25.3. -->
+    <img src="" style="visibility: hidden; display: none;"><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe>
+</div>
+
+  </div>
+
+    
+          <script type="text/javascript">var s_CCSWebHostingAccount = "trcgtesla";</script>
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/5806","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"classy\/node,core\/drupal.collapse,core\/html5shiv,nir_base\/adobe_omniture,nir_base\/lib,nir_base\/nir_icons,nir_base\/nir_toolbar,nir_ckeditor_datatables\/datatables,nir_market_data_block\/nir_market_data_block.command,nir_market_data_block\/nir_market_data_block.stockQuote,nir_multimedia\/nir_multimedia,nir_pid1827\/override,nir_stock_chart\/nir_stock_chart.stockChartStyling,nir_website_notices\/nir_website_notices.notices,radix_layouts\/radix_layouts,system\/base","theme":"nir_pid1827","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"d61654f0b46b6d90fca347cfa6ae58dab114d2c1ba1d89333ad270b9b6ddd2e6"}}</script>
+<script src="/sites/g/files/knoqqb19921/files/js/js_Be_79Q0kp4DDzNIDeuExtjyMOegcJSJA_KdsmENxI3I.js"></script>
+
+    
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"761e715901","applicationID":"35893545,24276188","transactionName":"ZlVXYRcAW0ZRW0QKX18fdFYRCFpbH2ddBkRQRFRSOhFUW1VUWRlVQ29FRwA+R1BeXFUR","queueTime":0,"applicationTime":464,"atts":"ShJUF18aSEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

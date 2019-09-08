@@ -1,0 +1,20 @@
+http://autodiscover.teslamotors.com/
+
+> GET / HTTP/1.1
+> Host: autodiscover.teslamotors.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Request-Id: bcb3ea50-997b-4343-8577-6257a774a22b
+< Location: https://outlook.office365.com/owa/?realm=teslamotors.com&vd=autodiscover
+< Server: Microsoft-IIS/10.0
+< X-Feserver: BL0PR02CA0059
+< X-Feserver: BL0PR02CA0059
+< X-Requestid: c95970ad-2d24-4f95-ba2d-c022ec5c92fc
+< Strict-Transport-Security: max-age=31536000
+< X-Powered-By: ASP.NET
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Date: Fri, 06 Sep 2019 22:52:11 GMT
+< Content-Length: 0
+

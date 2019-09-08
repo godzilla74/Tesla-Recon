@@ -1,4 +1,3 @@
-.tesla.com
 3.tesla.com
 api-toolbox.tesla.com
 auth.tesla.com

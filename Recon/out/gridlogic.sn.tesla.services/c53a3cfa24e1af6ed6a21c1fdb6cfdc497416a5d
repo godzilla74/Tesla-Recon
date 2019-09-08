@@ -1,0 +1,13 @@
+https://gridlogic.sn.tesla.services/
+
+> GET / HTTP/1.1
+> Host: gridlogic.sn.tesla.services
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=15724800; includeSubDomains
+< Date: Fri, 06 Sep 2019 22:52:32 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 21
+
+default backend - 404

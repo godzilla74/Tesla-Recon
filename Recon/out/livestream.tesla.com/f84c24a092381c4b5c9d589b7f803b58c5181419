@@ -1,0 +1,14 @@
+http://livestream.tesla.com/
+
+> GET / HTTP/1.1
+> Host: livestream.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 Moved Permanently
+< Server: AkamaiGHost
+< Content-Length: 0
+< Location: https://livestream.tesla.com/
+< Cache-Control: max-age=5
+< Date: Fri, 06 Sep 2019 22:52:28 GMT
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+

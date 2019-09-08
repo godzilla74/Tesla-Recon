@@ -1,0 +1,32 @@
+https://energysupport.tesla.com/
+
+> GET / HTTP/1.1
+> Host: energysupport.tesla.com
+> User-Agent: Mozilla/5.0 (compatible; meg/0.2; +https://github.com/tomnomnom/meg)
+
+< HTTP/1.1 301 
+< Content-Type: text/html;charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=15768000
+< Server: ZGS
+< Set-Cookie: ee21a9fa40=6a3f59a329711d863f4b262a3ea95a27; Path=/
+< Set-Cookie: crmcsr=7be83b71-59b9-4b5b-a794-d438b3fbf2da;path=/;Secure;priority=high
+< Set-Cookie: JSESSIONID=2C0F7D002FB3FFF2D716E59A2239AD00; Path=/; Secure
+< Cache-Control: no-cache
+< X-Xss-Protection: 1
+< Pragma: no-cache
+< X-Frame-Options: SAMEORIGIN
+< Location: https://energysupport.tesla.com/portal/home
+< Date: Fri, 06 Sep 2019 22:52:27 GMT
+< Content-Length: 9
+
+
+
+
+
+
+
+
+
+

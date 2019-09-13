@@ -1,0 +1,8 @@
+# Masscan 1.0.6 scan initiated Wed Sep 11 13:56:56 2019
+# Ports scanned: TCP(2;21-22,) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Timestamp: 1568210216	Host: 199.66.11.239 ()	Ports: 22/open/tcp//ssh//
+Timestamp: 1568210217	Host: 199.66.11.1 ()	Ports: 22/open/tcp//ssh//
+Timestamp: 1568210217	Host: 209.133.79.11 ()	Ports: 22/open/tcp//ssh//
+Timestamp: 1568210217	Host: 199.66.11.2 ()	Ports: 22/open/tcp//ssh//
+Timestamp: 1568210217	Host: 199.66.11.241 ()	Ports: 22/open/tcp//ssh//
+# Masscan done at Wed Sep 11 13:57:09 2019

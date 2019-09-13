@@ -1,0 +1,2 @@
+service-3pl-gw-stg.teslamotors.com
+service-3pl-gw.teslamotors.com
